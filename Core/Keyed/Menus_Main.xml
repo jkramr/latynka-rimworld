@@ -3,739 +3,739 @@
 
   <!-- Main menu -->
   <!-- EN: Tutorial -->
-  <Tutorial>Навчання</Tutorial>
+  <Tutorial>Navčannja</Tutorial>
   <!-- EN: New colony -->
-  <NewColony>Нова колонія</NewColony>
+  <NewColony>Nova kolonija</NewColony>
   <!-- EN: Back to game -->
-  <BackToGame>Повернутися до гри</BackToGame>
+  <BackToGame>Povernutysja do gry</BackToGame>
   <!-- EN: Review scenario -->
-  <ReviewScenario>Переглянути сценарій</ReviewScenario>
+  <ReviewScenario>Peregljanuty scenarij</ReviewScenario>
   <!-- EN: Save -->
-  <Save>Зберегти</Save>
+  <Save>Zberegty</Save>
   <!-- EN: Load game -->
-  <LoadGame>Завантажити гру</LoadGame>
+  <LoadGame>Zavantažyty gru</LoadGame>
   <!-- EN: Options -->
-  <Options>Налаштування</Options>
+  <Options>Nalaštuvannja</Options>
   <!-- EN: Mod -->
-  <Mod>Модифікація</Mod>
+  <Mod>Modyfikacija</Mod>
   <!-- EN: Mods -->
-  <Mods>Модифікації</Mods>
+  <Mods>Modyfikaciji</Mods>
   <!-- EN: Save translation report -->
-  <SaveTranslationReport>Зберегти звіт перекладу</SaveTranslationReport>
+  <SaveTranslationReport>Zberegty zvit perekladu</SaveTranslationReport>
   <!-- EN: Generating translation report -->
-  <GeneratingTranslationReport>Генерується звіт перекладу</GeneratingTranslationReport>
+  <GeneratingTranslationReport>Generujet'sja zvit perekladu</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
-  <CleanupTranslationFiles>Очистити файли перекладу</CleanupTranslationFiles>
+  <CleanupTranslationFiles>Očystyty fajly perekladu</CleanupTranslationFiles>
   <!-- EN: Update translations files (TKey's) -->
-  <TranslationFilesTKeyUpdate>Оновити файли перекладів (TKey's)</TranslationFilesTKeyUpdate>
+  <TranslationFilesTKeyUpdate>Onovyty fajly perekladiv (TKey's)</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
-  <CleaningTranslationFiles>Очищення файлів перекладу</CleaningTranslationFiles>
+  <CleaningTranslationFiles>Očyščennja fajliv perekladu</CleaningTranslationFiles>
   <!-- EN: Dev quicktest -->
-  <DevQuickTest>Швидкий тест розробки</DevQuickTest>
+  <DevQuickTest>Švydkyj test rozrobky</DevQuickTest>
   <!-- EN: Credits -->
-  <Credits>Автори</Credits>
+  <Credits>Avtory</Credits>
   <!-- EN: Quit to main menu -->
-  <QuitToMainMenu>До головного меню</QuitToMainMenu>
+  <QuitToMainMenu>Do golovnogo menju</QuitToMainMenu>
   <!-- EN: Save and quit to menu -->
-  <SaveAndQuitToMainMenu>Зберегти і вийти до меню</SaveAndQuitToMainMenu>
+  <SaveAndQuitToMainMenu>Zberegty i vyjty do menju</SaveAndQuitToMainMenu>
   <!-- EN: Quit to OS -->
-  <QuitToOS>Вихід в ОС</QuitToOS>
+  <QuitToOS>Vyhid v OS</QuitToOS>
   <!-- EN: Save and quit to OS -->
-  <SaveAndQuitToOS>Зберегти і вийти в ОС</SaveAndQuitToOS>
+  <SaveAndQuitToOS>Zberegty i vyjty v OS</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
-  <FictionPrimer>Літературний нарис</FictionPrimer>
+  <FictionPrimer>Literaturnyj narys</FictionPrimer>
   <!-- EN: Ludeon blog -->
-  <LudeonBlog>Блог Ludeon</LudeonBlog>
+  <LudeonBlog>Blog Ludeon</LudeonBlog>
   <!-- EN: Forums -->
-  <Forums>Форуми</Forums>
+  <Forums>Forumy</Forums>
   <!-- EN: Official wiki -->
-  <OfficialWiki>Офіційна Вікі</OfficialWiki>
+  <OfficialWiki>Oficijna Viki</OfficialWiki>
   <!-- EN: Tynan's twitter -->
-  <TynansTwitter>Твіттер Тайнена</TynansTwitter>
+  <TynansTwitter>Tvitter Tajnena</TynansTwitter>
   <!-- EN: Tynan's design book -->
-  <TynansDesignBook>Дизайнерська книга Тайнена</TynansDesignBook>
+  <TynansDesignBook>Dyzajners'ka knyga Tajnena</TynansDesignBook>
   <!-- EN: Help translate RimWorld -->
-  <HelpTranslate>Допомогти перекласти RimWorld</HelpTranslate>
+  <HelpTranslate>Dopomogty pereklasty RimWorld</HelpTranslate>
   <!-- EN: Buy soundtrack -->
-  <BuySoundtrack>Купити саундтрек</BuySoundtrack>
+  <BuySoundtrack>Kupyty saundtrek</BuySoundtrack>
   <!-- EN: Create world -->
-  <CreateWorld>Створити світ</CreateWorld>
+  <CreateWorld>Stvoryty svit</CreateWorld>
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>Фанати перекладають цю гру. Цей фанатський переклад зробили перелічені далі чудові добровольці:\n\n{0}</TranslationThanks>
+  <TranslationThanks>Fanaty perekladajut' cju gru. Cej fanats'kyj pereklad zrobyly pereličeni dali čudovi dobrovol'ci:\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>Ти теж можеш допомогти. Тисни кнопку внизу, щоб дізнатися більше (посилання відкриється у веб-браузері).</TranslationHowToContribute>
+  <TranslationHowToContribute>Ty tež možeš dopomogty. Tysny knopku vnyzu, ščob diznatysja bil'še (posylannja vidkryjet'sja u veb-brauzeri).</TranslationHowToContribute>
   <!-- EN: Learn more -->
-  <LearnMore>Дізнатися більше</LearnMore>
+  <LearnMore>Diznatysja bil'še</LearnMore>
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>Увага: Це нестабільна збірка розробки. Це означає, що ми проводимо проєктні експерименти і займаємося технічними розробками.\n\nДеякі речі будуть тимчасово незбалансовані спеціально. Це класичний метод ігрового дизайну, коли ми навмисно перегинаємо палицю зі зміною балансу, щоб краще зрозуміти межі балансу. Потім ми можемо використовувати цю інформацію, щоб визначитися з остаточними точками балансу.\n\nТакож будуть помилки, в тому числі і такі, що порушують гру. Збереження сумісності може порушитися в будь-який час.\n\nЯкщо у вас все це в порядку, дякую за тестування! Якщо ви не хочете бути об'єктом наших експериментів, будь ласка, пограйте в останню стабільну версію.</DevBuildWarning>
+  <DevBuildWarning>Uvaga: Ce nestabil'na zbirka rozrobky. Ce označaje, ščo my provodymo projektni eksperymenty i zajmajemosja tehničnymy rozrobkamy.\n\nDejaki reči budut' tymčasovo nezbalansovani special'no. Ce klasyčnyj metod igrovogo dyzajnu, koly my navmysno peregynajemo palycju zi zminoju balansu, ščob krašče zrozumity meži balansu. Potim my možemo vykorystovuvaty cju informaciju, ščob vyznačytysja z ostatočnymy točkamy balansu.\n\nTakož budut' pomylky, v tomu čysli i taki, ščo porušujut' gru. Zberežennja sumisnosti može porušytysja v bud'-jakyj čas.\n\nJakščo u vas vse ce v porjadku, djakuju za testuvannja! Jakščo vy ne hočete buty ob'jektom našyh eksperymentiv, bud' laska, pograjte v ostannju stabil'nu versiju.</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
-  <ReviewWorld>Переглянути світ</ReviewWorld>
+  <ReviewWorld>Peregljanuty svit</ReviewWorld>
   <!-- EN: Generate -->
-  <WorldGenerate>Згенерувати</WorldGenerate>
+  <WorldGenerate>Zgeneruvaty</WorldGenerate>
   <!-- EN: Save and finish -->
-  <WorldSaveAndFinish>Зберегти і завершити</WorldSaveAndFinish>
+  <WorldSaveAndFinish>Zberegty i zaveršyty</WorldSaveAndFinish>
   <!-- EN: Reset factions -->
-  <ResetFactions>Скинути фракції</ResetFactions>
+  <ResetFactions>Skynuty frakciji</ResetFactions>
   <!-- EN: Globe coverage -->
-  <PlanetCoverage>Покриття земної кулі</PlanetCoverage>
+  <PlanetCoverage>Pokryttja zemnoji kuli</PlanetCoverage>
   <!-- EN: Overall rainfall -->
-  <PlanetRainfall>Загальна кількість опадів</PlanetRainfall>
+  <PlanetRainfall>Zagal'na kil'kist' opadiv</PlanetRainfall>
   <!-- EN: Overall temperature -->
-  <PlanetTemperature>Середня температура</PlanetTemperature>
+  <PlanetTemperature>Serednja temperatura</PlanetTemperature>
   <!-- EN: Population -->
-  <PlanetPopulation>Населення</PlanetPopulation>
+  <PlanetPopulation>Naselennja</PlanetPopulation>
   <!-- EN: Low -->
-  <PlanetRainfall_Low>Низька</PlanetRainfall_Low>
+  <PlanetRainfall_Low>Nyz'ka</PlanetRainfall_Low>
   <!-- EN: Normal -->
-  <PlanetRainfall_Normal>Звичайна</PlanetRainfall_Normal>
+  <PlanetRainfall_Normal>Zvyčajna</PlanetRainfall_Normal>
   <!-- EN: High -->
-  <PlanetRainfall_High>Висока</PlanetRainfall_High>
+  <PlanetRainfall_High>Vysoka</PlanetRainfall_High>
   <!-- EN: Low -->
-  <PlanetTemperature_Low>Низька</PlanetTemperature_Low>
+  <PlanetTemperature_Low>Nyz'ka</PlanetTemperature_Low>
   <!-- EN: Normal -->
-  <PlanetTemperature_Normal>Звичайна</PlanetTemperature_Normal>
+  <PlanetTemperature_Normal>Zvyčajna</PlanetTemperature_Normal>
   <!-- EN: High -->
-  <PlanetTemperature_High>Висока</PlanetTemperature_High>
+  <PlanetTemperature_High>Vysoka</PlanetTemperature_High>
   <!-- EN: Sparse -->
-  <PlanetPopulation_Low>Рідка</PlanetPopulation_Low>
+  <PlanetPopulation_Low>Ridka</PlanetPopulation_Low>
   <!-- EN: Normal -->
-  <PlanetPopulation_Normal>Звичайна</PlanetPopulation_Normal>
+  <PlanetPopulation_Normal>Zvyčajna</PlanetPopulation_Normal>
   <!-- EN: Crowded -->
-  <PlanetPopulation_High>Густа</PlanetPopulation_High>
+  <PlanetPopulation_High>Gusta</PlanetPopulation_High>
   <!-- EN: Seed -->
-  <WorldSeed>Зерно</WorldSeed>
+  <WorldSeed>Zerno</WorldSeed>
   <!-- EN: Randomize seed -->
-  <RandomizeSeed>Випадкове зерно</RandomizeSeed>
+  <RandomizeSeed>Vypadkove zerno</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>Планета завжди однакового діаметру, але оскільки вона набагато більша, ніж потрібно для гри, ми не генеруємо всю поверхню, тому що це може зайняти дуже багато часу. Це відсоток поверхні, яку ви хочете створити.</PlanetCoverageTip>
+  <PlanetCoverageTip>Planeta zavždy odnakovogo diametru, ale oskil'ky vona nabagato bil'ša, niž potribno dlja gry, my ne generujemo vsju poverhnju, tomu ščo ce može zajnjaty duže bagato času. Ce vidsotok poverhni, jaku vy hočete stvoryty.</PlanetCoverageTip>
   <!-- EN: Factions -->
-  <WorldFactionsTab>Фракції</WorldFactionsTab>
+  <WorldFactionsTab>Frakciji</WorldFactionsTab>
 
   <!-- Select world -->
   <!-- EN: Select world -->
-  <SelectWorld>Вибрати світ</SelectWorld>
+  <SelectWorld>Vybraty svit</SelectWorld>
   <!-- EN: Select -->
-  <WorldChooseButton>Вибрати</WorldChooseButton>
+  <WorldChooseButton>Vybraty</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>Не знайдено файлів світу. Спочатку створіть світ.</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Ne znajdeno fajliv svitu. Spočatku stvorit' svit.</NoWorldsFilesFound>
   
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
-  <BuildNowAvailable>Версія {0} наразі доступна. Перевірте ludeon.com для отримання додаткової інформації.</BuildNowAvailable>
+  <BuildNowAvailable>Versija {0} narazi dostupna. Perevirte ludeon.com dlja otrymannja dodatkovoji informaciji.</BuildNowAvailable>
   <!-- EN: This is the latest version. -->
-  <BuildUpToDate>Це остання версія.</BuildUpToDate>
+  <BuildUpToDate>Ce ostannja versija.</BuildUpToDate>
   <!-- EN: Error getting version info: {0} -->
-  <ErrorGettingVersionInfo>Помилка при отриманні даних про версію: {0}</ErrorGettingVersionInfo>
+  <ErrorGettingVersionInfo>Pomylka pry otrymanni danyh pro versiju: {0}</ErrorGettingVersionInfo>
   <!-- EN: Loading version info... -->
-  <LoadingVersionInfo>Завантаження інформації щодо версії...</LoadingVersionInfo>
+  <LoadingVersionInfo>Zavantažennja informaciji ščodo versiji...</LoadingVersionInfo>
 
   <!-- World generator -->
   <!-- EN: Generate world -->
-  <GenerateWorld>Згенерувати світ</GenerateWorld>
+  <GenerateWorld>Zgeneruvaty svit</GenerateWorld>
 
   <!-- Mods config -->
   <!-- EN: Open Steam Workshop -->
-  <OpenSteamWorkshop>Відкрити Майстерню Steam</OpenSteamWorkshop>
+  <OpenSteamWorkshop>Vidkryty Majsternju Steam</OpenSteamWorkshop>
   <!-- EN: Get mods from forum -->
-  <GetModsFromForum>Отримати моди з форуму</GetModsFromForum>
+  <GetModsFromForum>Otrymaty mody z forumu</GetModsFromForum>
   <!-- EN: Open mods data folder -->
-  <OpenModsDataFolder>Відкрити папку з модами</OpenModsDataFolder>
+  <OpenModsDataFolder>Vidkryty papku z modamy</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
-  <ShowModsDataLocation>Показати розташування модів</ShowModsDataLocation>
+  <ShowModsDataLocation>Pokazaty roztašuvannja modiv</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>Ви впевнені, що хочете відключити основний мод? Гра взагалі не буде працювати, якщо у вас немає іншого мода, який замінює весь основний функціонал.\n\nПам'ятайте, що інші моди можуть перевизначати defs в основному моді, використовуючи той самий defName.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Vy vpevneni, ščo hočete vidključyty osnovnyj mod? Gra vzagali ne bude pracjuvaty, jakščo u vas nemaje inšogo moda, jakyj zaminjuje ves' osnovnyj funkcional.\n\nPam'jatajte, ščo inši mody možut' perevyznačaty defs v osnovnomu modi, vykorystovujučy toj samyj defName.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
-  <ConfirmDeleteMod>Ви впевнені, що хочете видалити весь контент для {0}?</ConfirmDeleteMod>
+  <ConfirmDeleteMod>Vy vpevneni, ščo hočete vydalyty ves' kontent dlja {0}?</ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
-  <ResolveModOrder>Впорядкувати моди</ResolveModOrder>
+  <ResolveModOrder>Vporjadkuvaty mody</ResolveModOrder>
   <!-- EN: Save and apply changes -->
-  <SaveModChanges>Зберегти та застосувати</SaveModChanges>
+  <SaveModChanges>Zberegty ta zastosuvaty</SaveModChanges>
   <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
-  <DiscardModChanges>Зміни модів не збережено. Ви впевнені, що бажаєте продовжити?</DiscardModChanges>
+  <DiscardModChanges>Zminy modiv ne zbereženo. Vy vpevneni, ščo bažajete prodovžyty?</DiscardModChanges>
   <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
-  <ModReorderConflict_MustLoadAfter>Неможливо перемістити {0}: його потрібно завантажити після {1}.</ModReorderConflict_MustLoadAfter>
+  <ModReorderConflict_MustLoadAfter>Nemožlyvo peremistyty {0}: jogo potribno zavantažyty pislja {1}.</ModReorderConflict_MustLoadAfter>
   <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
-  <ModReorderConflict_MustLoadBefore>Неможливо перемістити {0}: його потрібно завантажити до {1}.</ModReorderConflict_MustLoadBefore>
+  <ModReorderConflict_MustLoadBefore>Nemožlyvo peremistyty {0}: jogo potribno zavantažyty do {1}.</ModReorderConflict_MustLoadBefore>
   <!-- EN: Unsubscribe -->
-  <Unsubscribe>Відписатися</Unsubscribe>
+  <Unsubscribe>Vidpysatysja</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe? -->
-  <ConfirmUnsubscribe>Ви впевнені, що хочете відписатися?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Vy vpevneni, ščo hočete vidpysatysja?</ConfirmUnsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribeFrom>Ви впевнені, що хочете відписатися від {0}?</ConfirmUnsubscribeFrom>
+  <ConfirmUnsubscribeFrom>Vy vpevneni, ščo hočete vidpysatysja vid {0}?</ConfirmUnsubscribeFrom>
   <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
-  <ConfirmUnsubscribeFromMultiple>Ви впевнені, що хочете відписатися від:\n\n{0}</ConfirmUnsubscribeFromMultiple>
+  <ConfirmUnsubscribeFromMultiple>Vy vpevneni, ščo hočete vidpysatysja vid:\n\n{0}</ConfirmUnsubscribeFromMultiple>
   <!-- EN: Author -->
-  <Author>Автор</Author>
+  <Author>Avtor</Author>
   <!-- EN: Enabled -->
-  <Enabled>Увімкнуті</Enabled>
+  <Enabled>Uvimknuti</Enabled>
   <!-- EN: Disabled -->
-  <Disabled>Вимкнуті</Disabled>
+  <Disabled>Vymknuti</Disabled>
   <!-- EN: Enable -->
-  <Enable>Увімкнути</Enable>
+  <Enable>Uvimknuty</Enable>
   <!-- EN: Disable -->
-  <Disable>Вимкнути</Disable>
+  <Disable>Vymknuty</Disable>
   <!-- EN: Get mods from... -->
-  <GetMods>Скачати моди з...</GetMods>
+  <GetMods>Skačaty mody z...</GetMods>
   <!-- EN: Unsubscribe from... -->
-  <UnsubscribeMultiple>Відписатись від...</UnsubscribeMultiple>
+  <UnsubscribeMultiple>Vidpysatys' vid...</UnsubscribeMultiple>
   <!-- EN: Save / load list... -->
-  <SaveLoadList>Зберегти/завантажити...</SaveLoadList>
+  <SaveLoadList>Zberegty/zavantažyty...</SaveLoadList>
   <!-- EN: Save mod list -->
-  <SaveModList>Зберегти список модів</SaveModList>
+  <SaveModList>Zberegty spysok modiv</SaveModList>
   <!-- EN: Load mod list -->
-  <LoadModList>Завантажити список модів</LoadModList>
+  <LoadModList>Zavantažyty spysok modiv</LoadModList>
   <!-- EN: Added mods -->
-  <AddedModsList>Додані моди</AddedModsList>
+  <AddedModsList>Dodani mody</AddedModsList>
   <!-- EN: Missing mods -->
-  <MissingModsList>Відсутні моди</MissingModsList>
+  <MissingModsList>Vidsutni mody</MissingModsList>
   <!-- EN: Shared mods -->
-  <SharedModsList>Моди якими поділились</SharedModsList>
+  <SharedModsList>Mody jakymy podilylys'</SharedModsList>
   <!-- EN: Website -->
-  <ModWebsite>Вебсайт</ModWebsite>
+  <ModWebsite>Vebsajt</ModWebsite>
   <!-- EN: Open folder -->
-  <ModFolder>Відкрити папку</ModFolder>
+  <ModFolder>Vidkryty papku</ModFolder>
   <!-- EN: Mod options -->
-  <ModOptions>Налаштування мода</ModOptions>
+  <ModOptions>Nalaštuvannja moda</ModOptions>
   <!-- EN: Workshop -->
-  <FromWorkshop>Майстерні</FromWorkshop>
+  <FromWorkshop>Majsterni</FromWorkshop>
   <!-- EN: Forum -->
-  <FromForum>Форуму</FromForum>
+  <FromForum>Forumu</FromForum>
   <!-- EN: Advanced... -->
-  <MoreActions>Додатково...</MoreActions>
+  <MoreActions>Dodatkovo...</MoreActions>
   <!-- EN: All selected mods -->
-  <AllSelectedMods>Усіх вибраних модів</AllSelectedMods>
+  <AllSelectedMods>Usih vybranyh modiv</AllSelectedMods>
   <!-- EN: All disabled mods -->
-  <AllDisabledMods>Усіх вимкнених модів</AllDisabledMods>
+  <AllDisabledMods>Usih vymknenyh modiv</AllDisabledMods>
   <!-- EN: All incompatible mods -->
-  <AllIncompatibleMods>Усіх несумісних модів</AllIncompatibleMods>
+  <AllIncompatibleMods>Usih nesumisnyh modiv</AllIncompatibleMods>
   <!-- EN: Workshop page -->
-  <WorkshopPage>Сторінка в Майстерні</WorkshopPage>
+  <WorkshopPage>Storinka v Majsterni</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
-  <UploadToSteamWorkshop>Опублікувати в Майстерню Steam</UploadToSteamWorkshop>
+  <UploadToSteamWorkshop>Opublikuvaty v Majsternju Steam</UploadToSteamWorkshop>
   <!-- EN: Update on Steam Workshop -->
-  <UpdateOnSteamWorkshop>Оновити в Майстерні Steam</UpdateOnSteamWorkshop>
+  <UpdateOnSteamWorkshop>Onovyty v Majsterni Steam</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
-  <UploadAlreadyInProgress>Завантаження вже триває.</UploadAlreadyInProgress>
+  <UploadAlreadyInProgress>Zavantažennja vže tryvaje.</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
-  <WorkshopSubmissionFailed>Не вдалося надіслати до Майстерні.\n\nПричина: {0}</WorkshopSubmissionFailed>
+  <WorkshopSubmissionFailed>Ne vdalosja nadislaty do Majsterni.\n\nPryčyna: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
-  <WorkshopUploadSucceeded>Успішно завантажено {0}.</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>Uspišno zavantaženo {0}.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
-  <Downloading>Завантаження</Downloading>
+  <Downloading>Zavantažennja</Downloading>
   <!-- EN: Workshop ID -->
-  <WorkshopId>ID у Майстерні</WorkshopId>
+  <WorkshopId>ID u Majsterni</WorkshopId>
   <!-- EN: Display fulfilled requirements -->
-  <ModDisplayFulfilledRequirements>Показати виконані вимоги</ModDisplayFulfilledRequirements>
+  <ModDisplayFulfilledRequirements>Pokazaty vykonani vymogy</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
-  <ModClickToSelect>Натисніть для вибору.</ModClickToSelect>
+  <ModClickToSelect>Natysnit' dlja vyboru.</ModClickToSelect>
   <!-- EN: Click to go to website. -->
-  <ModClickToGoToWebsite>Натисніть, щоб перейти на вебсайт.</ModClickToGoToWebsite>
+  <ModClickToGoToWebsite>Natysnit', ščob perejty na vebsajt.</ModClickToGoToWebsite>
   <!-- EN: Source -->
-  <Source>Джерело</Source>
+  <Source>Džerelo</Source>
   <!-- EN: Game versions -->
-  <ModTargetVersion>Сумісний з версіями гри</ModTargetVersion>
+  <ModTargetVersion>Sumisnyj z versijamy gry</ModTargetVersion>
   <!-- EN: Mod version -->
-  <ModVersion>Версія моду</ModVersion>
+  <ModVersion>Versija modu</ModVersion>
   <!-- EN: ID -->
   <ModPackageId>ID</ModPackageId>
   <!-- EN: This must be loaded before: {0}. -->
-  <ModMustLoadBefore>Це повинно бути завантажене перед: {0}.</ModMustLoadBefore>
+  <ModMustLoadBefore>Ce povynno buty zavantažene pered: {0}.</ModMustLoadBefore>
   <!-- EN: This must be loaded after: {0}. -->
-  <ModMustLoadAfter>Це повинно бути завантажене після: {0}.</ModMustLoadAfter>
+  <ModMustLoadAfter>Ce povynno buty zavantažene pislja: {0}.</ModMustLoadAfter>
   <!-- EN: Depends on: {0} -->
-  <ModDependsOn>Залежить від: {0}</ModDependsOn>
+  <ModDependsOn>Zaležyt' vid: {0}</ModDependsOn>
   <!-- EN: Incompatible with: {0} -->
-  <ModIncompatibleWith>Несумісне з: {0}</ModIncompatibleWith>
+  <ModIncompatibleWith>Nesumisne z: {0}</ModIncompatibleWith>
   <!-- EN: This mod is incompatible with: {0}. -->
-  <ModIncompatibleWithTip>Цей мод не сумісний з: {0}.</ModIncompatibleWithTip>
-  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
-  <ModOrderingWarning>Цей мод завантажений у неправильному порядку по відношенню до інших модів. Натисніть кнопку "впорядкувати моди' або змініть порядок модів вручну.</ModOrderingWarning>
+  <ModIncompatibleWithTip>Cej mod ne sumisnyj z: {0}.</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the "auto-sort" button, or re-order the mods manually. -->
+  <ModOrderingWarning>Cej mod zavantaženyj u nepravyl'nomu porjadku po vidnošennju do inšyh modiv. Natysnit' knopku "vporjadkuvaty mody' abo zminit' porjadok modiv vručnu.</ModOrderingWarning>
   <!-- EN: Another active mod uses the same ID: {0}. -->
-  <ModWithSameIdAlreadyActive>Інший активний мод використовує такий самий ID: {0}.</ModWithSameIdAlreadyActive>
+  <ModWithSameIdAlreadyActive>Inšyj aktyvnyj mod vykorystovuje takyj samyj ID: {0}.</ModWithSameIdAlreadyActive>
   <!-- EN: There is a cyclic mod dependency starting with {0}. -->
-  <ModCyclicDependency>Є циклічна залежність модів, що починається з {0}.</ModCyclicDependency>
+  <ModCyclicDependency>Je cyklična zaležnist' modiv, ščo počynajet'sja z {0}.</ModCyclicDependency>
   <!-- EN: This requires the following mods to work: {0}. -->
-  <ModUnsatisfiedDependency>Для роботи потрібні наступні моди: {0}.</ModUnsatisfiedDependency>
+  <ModUnsatisfiedDependency>Dlja roboty potribni nastupni mody: {0}.</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>Цей мод розроблений не для цієї версії RimWorld і, ймовірно, не буде правильно працювати.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion>Cej mod rozroblenyj ne dlja cijeji versiji RimWorld i, jmovirno, ne bude pravyl'no pracjuvaty.</ModNotMadeForThisVersion>
   <!-- EN: This mod is not made for this version of RimWorld. -->
-  <ModNotMadeForThisVersionShort>Цей мод не пристосований до поточної версії RimWorld.</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersionShort>Cej mod ne prystosovanyj do potočnoji versiji RimWorld.</ModNotMadeForThisVersionShort>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion_Newer>Цей мод розроблений для новішої версії RimWorld і, ймовірно, не буде правильно працювати.</ModNotMadeForThisVersion_Newer>
+  <ModNotMadeForThisVersion_Newer>Cej mod rozroblenyj dlja novišoji versiji RimWorld i, jmovirno, ne bude pravyl'no pracjuvaty.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion><![CDATA[Мод потребує коректного форматування інформації щодо версій в About.xml. Наприклад, <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> є застарілим. Перевірте журнал для подальшої інформації.]]></MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion><![CDATA[Mod potrebuje korektnogo formatuvannja informaciji ščodo versij v About.xml. Napryklad, <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> je zastarilym. Perevirte žurnal dlja podal'šoji informaciji.]]></MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId><![CDATA[Мод потребує унікальний, правильно відформатований packageId в About.xml. Він має відповідати наступним вимогам:\n\n  - лише алфавітно-цифрові символи та крапки.\n  - Немає пробілів.\n  - Принаймні одна крапка.\n  - Жодних повторних точок підряд, починаючи або закінчуючи крапкою.\n  - 60 символів або менше.\n  - Не може містити слово "Ludeon".\n\nНаприклад:\n\<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId>]]></MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId><![CDATA[Mod potrebuje unikal'nyj, pravyl'no vidformatovanyj packageId v About.xml. Vin maje vidpovidaty nastupnym vymogam:\n\n  - lyše alfavitno-cyfrovi symvoly ta krapky.\n  - Nemaje probiliv.\n  - Prynajmni odna krapka.\n  - Žodnyh povtornyh točok pidrjad, počynajučy abo zakinčujučy krapkoju.\n  - 60 symvoliv abo menše.\n  - Ne može mistyty slovo "Ludeon".\n\nNapryklad:\n\<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId>]]></MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
-  <ModHadLoadFolderIssues>Цей мод має проблеми в LoadFolders.xml, які вам потрібно вирішити перед завантаженням:</ModHadLoadFolderIssues>
+  <ModHadLoadFolderIssues>Cej mod maje problemy v LoadFolders.xml, jaki vam potribno vyrišyty pered zavantažennjam:</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
-  <ModLoadFolderDoesntExist>Папка {0}, визначена для версії {1}, не існує.</ModLoadFolderDoesntExist>
-  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
-  <ModLoadFolderMalformedVersion>Неправильний рядок версії '{0}. Коректний формат Major.Minor (наприклад 1.1)</ModLoadFolderMalformedVersion>
+  <ModLoadFolderDoesntExist>Papka {0}, vyznačena dlja versiji {1}, ne isnuje.</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string "{0}". Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>Nepravyl'nyj rjadok versiji '{0}. Korektnyj format Major.Minor (napryklad 1.1)</ModLoadFolderMalformedVersion>
   <!-- EN: The list of load folders for version {0} is empty. -->
-  <ModLoadFolderListEmpty>Список папок завантаження для версії {0} порожній.</ModLoadFolderListEmpty>
+  <ModLoadFolderListEmpty>Spysok papok zavantažennja dlja versiji {0} porožnij.</ModLoadFolderListEmpty>
   <!-- EN: Version {0} lists the same folder more than once: {1}. -->
-  <ModLoadFolderRepeatingFolder>Версія {0} містить одну й ту саму папку більше одного разу: {1}.</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderRepeatingFolder>Versija {0} mistyt' odnu j tu samu papku bil'še odnogo razu: {1}.</ModLoadFolderRepeatingFolder>
   <!-- EN: Invalid version order: {0} should come before {1}. -->
-  <ModLoadFolderOutOfOrder>Недійсний порядок версій: {0} має йти перед {1}.</ModLoadFolderOutOfOrder>
-  <!-- EN: Invalid version order: 'default' should be defined first. -->
-  <ModLoadFolderOutOfOrderDefault>Неправильний порядок версій: спочатку слід визначити "за замовчуванням".</ModLoadFolderOutOfOrderDefault>
-  <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>Використання "за замовчуванням" у папках завантаження застаріло. Будь ласка, визначте папки для кожної версії за допомогою тегів &lt;v...&gt;.</ModLoadFolderDefaultDeprecated>
-  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>Версія {0} визначена в папках завантаження, але не вказана в «supportedVersions» About.xml мода.</ModLoadFolderDefinesUnsupportedGameVersion>
+  <ModLoadFolderOutOfOrder>Nedijsnyj porjadok versij: {0} maje jty pered {1}.</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: "default" should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>Nepravyl'nyj porjadok versij: spočatku slid vyznačyty "za zamovčuvannjam".</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Using "default" in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
+  <ModLoadFolderDefaultDeprecated>Vykorystannja "za zamovčuvannjam" u papkah zavantažennja zastarilo. Bud' laska, vyznačte papky dlja kožnoji versiji za dopomogoju tegiv &lt;v...&gt;.</ModLoadFolderDefaultDeprecated>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in "supportedVersions" of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>Versija {0} vyznačena v papkah zavantažennja, ale ne vkazana v "supportedVersions" About.xml moda.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
-  <DragToReorder>Перетягніть, щоб змінити порядок</DragToReorder>
+  <DragToReorder>Peretjagnit', ščob zminyty porjadok</DragToReorder>
 
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
-  <ChooseScenario>Оберіть сценарій</ChooseScenario>
+  <ChooseScenario>Oberit' scenarij</ChooseScenario>
   <!-- EN: Custom -->
-  <ScenariosCustom>Власне</ScenariosCustom>
+  <ScenariosCustom>Vlasne</ScenariosCustom>
   <!-- EN: Steam Workshop -->
-  <ScenariosSteamWorkshop>Майстерня Steam</ScenariosSteamWorkshop>
+  <ScenariosSteamWorkshop>Majsternja Steam</ScenariosSteamWorkshop>
   <!-- EN: Scenario editor -->
-  <ScenarioEditor>Редактор сценарія</ScenarioEditor>
+  <ScenarioEditor>Redaktor scenarija</ScenarioEditor>
   <!-- EN: Delete -->
-  <Delete>Видалити</Delete>
+  <Delete>Vydalyty</Delete>
   
   <!-- Scenario editor -->
   <!-- EN: seed -->
-  <Seed>зерно</Seed>
+  <Seed>zerno</Seed>
   <!-- EN: Load -->
-  <Load>Загрузити</Load>
+  <Load>Zagruzyty</Load>
   <!-- EN: edit mode -->
-  <EditMode>режим редагування</EditMode>
+  <EditMode>režym redaguvannja</EditMode>
   <!-- EN: Summary -->
-  <Summary>Підсумок</Summary>
+  <Summary>Pidsumok</Summary>
   <!-- EN: Add part -->
-  <AddPart>Додати частину</AddPart>
+  <AddPart>Dodaty častynu</AddPart>
   <!-- EN: All text fields must be filled. -->
-  <TextFieldsMustBeFilled>Усі текстові поля мають бути заповнені.</TextFieldsMustBeFilled>
+  <TextFieldsMustBeFilled>Usi tekstovi polja majut' buty zapovneni.</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>Ви впевнені, що хочете завантажити це до Майстерні Steam?\n\nВи повинні прийняти умови використання Майстерні Steam. Повний текст умов тут:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>Vy vpevneni, ščo hočete zavantažyty ce do Majsterni Steam?\n\nVy povynni pryjnjaty umovy vykorystannja Majsterni Steam. Povnyj tekst umov tut:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>Очевидно, ви повинні завантажувати лише той вміст, який створили самі.\n\nВи створили цей вміст самостійно?</ConfirmContentAuthor>
+  <ConfirmContentAuthor>Očevydno, vy povynni zavantažuvaty lyše toj vmist, jakyj stvoryly sami.\n\nVy stvoryly cej vmist samostijno?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
-  <Incompatible>Несумісно</Incompatible>
+  <Incompatible>Nesumisno</Incompatible>
   <!-- EN: Tag as translation -->
-  <TagAsTranslation>Позначити як переклад</TagAsTranslation>
+  <TagAsTranslation>Poznačyty jak pereklad</TagAsTranslation>
   <!-- EN: Too many (max {0}):  -->
-  <TooMany>Забагато (максимум {0}):</TooMany>
+  <TooMany>Zabagato (maksymum {0}):</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>Може бути оновлено у Майстерні, оскільки ви є автором.</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>Može buty onovleno u Majsterni, oskil'ky vy je avtorom.</CanBeUpdatedOnWorkshop>
   <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
-  <ScenarioChangedSavePrompt>Цей сценарій було змінено.\n\nБажаєте зберегти зміни?</ScenarioChangedSavePrompt>
+  <ScenarioChangedSavePrompt>Cej scenarij bulo zmineno.\n\nBažajete zberegty zminy?</ScenarioChangedSavePrompt>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
-  <ChooseAIStoryteller>Оберіть ШІ оповідача</ChooseAIStoryteller>
+  <ChooseAIStoryteller>Oberit' ŠI opovidača</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>ШІ оповідача створює події, такі як піратські набіги, випадіння ресурсів або напади тварин. Їх вибір вплине на історію вашої колонії. Ці налаштування можна змінити в будь-який час.</HowStorytellersWork>
+  <HowStorytellersWork>ŠI opovidača stvorjuje podiji, taki jak pirats'ki nabigy, vypadinnja resursiv abo napady tvaryn. Jih vybir vplyne na istoriju vašoji koloniji. Ci nalaštuvannja možna zminyty v bud'-jakyj čas.</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
-  <MustChooseDifficulty>Будь ласка, оберіть рівень складності.</MustChooseDifficulty>
+  <MustChooseDifficulty>Bud' laska, oberit' riven' skladnosti.</MustChooseDifficulty>
   <!-- EN: Difficulty -->
-  <Difficulty>Складність</Difficulty>
+  <Difficulty>Skladnist'</Difficulty>
   <!-- EN: Commitment mode -->
-  <CommitmentMode>Відповідальний режим</CommitmentMode>
+  <CommitmentMode>Vidpovidal'nyj režym</CommitmentMode>
   <!-- EN: Reload anytime mode -->
-  <ReloadAnytimeMode>Перезавантаження будь-коли</ReloadAnytimeMode>
+  <ReloadAnytimeMode>Perezavantažennja bud'-koly</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>Будь ласка, оберіть відповідальний режим, або режим перезавантаження будь-коли.</MustChoosePermadeath>
+  <MustChoosePermadeath>Bud' laska, oberit' vidpovidal'nyj režym, abo režym perezavantažennja bud'-koly.</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>Ти можеш зберігати та завантажувати гру будь-коли.\n\nЦе хороший вибір, якщо ви все ще вивчаєте гру, якщо вона відповідає вашому особистому стилю гри, якщо ви використовуєте модифікації, які можуть порушити вашу гру, або якщо ви збираєтеся самостійно застосувати режим зобов’язань.</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>Ty možeš zberigaty ta zavantažuvaty gru bud'-koly.\n\nCe horošyj vybir, jakščo vy vse šče vyvčajete gru, jakščo vona vidpovidaje vašomu osobystomu stylju gry, jakščo vy vykorystovujete modyfikaciji, jaki možut' porušyty vašu gru, abo jakščo vy zbyrajetesja samostijno zastosuvaty režym zobov'jazan'.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>Зберегти можна лише при виході з гри.\n\nОскільки RimWorld — це генератор історій, навіть втрата всіх, крім однієї людини, не є кінцем гри — це частина історії. Гра створена, щоб дозволити відновлюватися після поразок.\n\nРозігрування цих жахливих ситуацій робить історію як трагедією, так і тріумфом. Це спосіб гри в RimWorld.\n\nЄ причина, по якій Люк Скайвокер не кинув і не перезавантажив, коли його сім'ю вбили - втрати та відновлення є драматичними.</PermadeathModeInfo>
+  <PermadeathModeInfo>Zberegty možna lyše pry vyhodi z gry.\n\nOskil'ky RimWorld — ce generator istorij, navit' vtrata vsih, krim odnijeji ljudyny, ne je kincem gry — ce častyna istoriji. Gra stvorena, ščob dozvolyty vidnovljuvatysja pislja porazok.\n\nRozigruvannja cyh žahlyvyh sytuacij robyt' istoriju jak tragedijeju, tak i triumfom. Ce sposib gry v RimWorld.\n\nJe pryčyna, po jakij Ljuk Skajvoker ne kynuv i ne perezavantažyv, koly jogo sim'ju vbyly - vtraty ta vidnovlennja je dramatyčnymy.</PermadeathModeInfo>
   <!-- EN: Storyteller and playstyle can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>Оповідача та стиль гри можна змінити будь-коли.</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>Opovidača ta styl' gry možna zminyty bud'-koly.</CanChangeStorytellerSettingsDuringPlay>
 
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
-  <DifficultyCustomSectionLabel>Налаштування власного стилю гри</DifficultyCustomSectionLabel>
+  <DifficultyCustomSectionLabel>Nalaštuvannja vlasnogo stylju gry</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
-  <DifficultyReset>Встановити стандартний стиль гри...</DifficultyReset>
+  <DifficultyReset>Vstanovyty standartnyj styl' gry...</DifficultyReset>
   
   <!-- EN: Threats -->
-  <DifficultyThreatSection>Загрози</DifficultyThreatSection>
+  <DifficultyThreatSection>Zagrozy</DifficultyThreatSection>
   <!-- EN: Threat scale -->
-  <Difficulty_ThreatScale_Label>Масштаб загрози</Difficulty_ThreatScale_Label>
+  <Difficulty_ThreatScale_Label>Masštab zagrozy</Difficulty_ThreatScale_Label>
   <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
-  <Difficulty_ThreatScale_Info>Налаштуйте розмір загроз, таких як рейди та зараження, а також складність завдань.</Difficulty_ThreatScale_Info>
+  <Difficulty_ThreatScale_Info>Nalaštujte rozmir zagroz, takyh jak rejdy ta zaražennja, a takož skladnist' zavdan'.</Difficulty_ThreatScale_Info>
   <!-- EN: Major threats -->
-  <Difficulty_AllowBigThreats_Label>Основні загрози</Difficulty_AllowBigThreats_Label>
+  <Difficulty_AllowBigThreats_Label>Osnovni zagrozy</Difficulty_AllowBigThreats_Label>
   <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
-  <Difficulty_AllowBigThreats_Info>Вмикає такі великі загрози, як рейди, напади, зграї мисливців, розбиті кораблі механоїдів тощо.</Difficulty_AllowBigThreats_Info>
+  <Difficulty_AllowBigThreats_Info>Vmykaje taki velyki zagrozy, jak rejdy, napady, zgraji myslyvciv, rozbyti korabli mehanojidiv toščo.</Difficulty_AllowBigThreats_Info>
   <!-- EN: Quest threats -->
-  <Difficulty_AllowViolentQuests_Label>Загрози у завданнях</Difficulty_AllowViolentQuests_Label>
+  <Difficulty_AllowViolentQuests_Label>Zagrozy u zavdannjah</Difficulty_AllowViolentQuests_Label>
   <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
-  <Difficulty_AllowViolentQuests_Info>Дозволити жорстокі загрози та виклики у завданнях. Якщо вимкнено, завдання будуть змінені так, щоб вони не були насильницькими.</Difficulty_AllowViolentQuests_Info>
+  <Difficulty_AllowViolentQuests_Info>Dozvolyty žorstoki zagrozy ta vyklyky u zavdannjah. Jakščo vymkneno, zavdannja budut' zmineni tak, ščob vony ne buly nasyl'nyc'kymy.</Difficulty_AllowViolentQuests_Info>
   <!-- EN: Intro threats -->
-  <Difficulty_AllowIntroThreats_Label>Початкові загрози</Difficulty_AllowIntroThreats_Label>
+  <Difficulty_AllowIntroThreats_Label>Počatkovi zagrozy</Difficulty_AllowIntroThreats_Label>
   <!-- EN: Enable the fixed intro threats that appear near game start. -->
-  <Difficulty_AllowIntroThreats_Info>Увімкнути нерухомі загрози, які з’являться на початку гри.</Difficulty_AllowIntroThreats_Info>
+  <Difficulty_AllowIntroThreats_Info>Uvimknuty neruhomi zagrozy, jaki z'javljat'sja na počatku gry.</Difficulty_AllowIntroThreats_Info>
   <!-- EN: Predators hunt humans -->
-  <Difficulty_PredatorsHuntHumanlikes_Label>Хижаки полюють на людей</Difficulty_PredatorsHuntHumanlikes_Label>
+  <Difficulty_PredatorsHuntHumanlikes_Label>Hyžaky poljujut' na ljudej</Difficulty_PredatorsHuntHumanlikes_Label>
   <!-- EN: Allow wild predators to hunt humans. -->
-  <Difficulty_PredatorsHuntHumanlikes_Info>Дозвольте диким хижакам полювати на людей.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <Difficulty_PredatorsHuntHumanlikes_Info>Dozvol'te dykym hyžakam poljuvaty na ljudej.</Difficulty_PredatorsHuntHumanlikes_Info>
   <!-- EN: Extreme weather -->
-  <Difficulty_AllowExtremeWeatherIncidents_Label>Екстремальна погода</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <Difficulty_AllowExtremeWeatherIncidents_Label>Ekstremal'na pogoda</Difficulty_AllowExtremeWeatherIncidents_Label>
   <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
-  <Difficulty_AllowExtremeWeatherIncidents_Info>Дозволяє екстремальні погодні явища, такі як токсичні опади, вулканічні зими та спалахи.</Difficulty_AllowExtremeWeatherIncidents_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>Dozvoljaje ekstremal'ni pogodni javyšča, taki jak toksyčni opady, vulkanični zymy ta spalahy.</Difficulty_AllowExtremeWeatherIncidents_Info>
 
   <!-- EN: Economy -->
-  <DifficultyEconomySection>Економіка</DifficultyEconomySection>
+  <DifficultyEconomySection>Ekonomika</DifficultyEconomySection>
   <!-- EN: Trade price disadvantage -->
-  <Difficulty_TradePriceFactorLoss_Label>Невигідні торгові ціни</Difficulty_TradePriceFactorLoss_Label>
+  <Difficulty_TradePriceFactorLoss_Label>Nevygidni torgovi ciny</Difficulty_TradePriceFactorLoss_Label>
   <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
-  <Difficulty_TradePriceFactorLoss_Info>Під час торгівлі ціни купівлі збільшуються на цю суму, а ціни продажу знижуються на цю суму.</Difficulty_TradePriceFactorLoss_Info>
+  <Difficulty_TradePriceFactorLoss_Info>Pid čas torgivli ciny kupivli zbil'šujut'sja na cju sumu, a ciny prodažu znyžujut'sja na cju sumu.</Difficulty_TradePriceFactorLoss_Info>
   <!-- EN: Harvest yield -->
-  <Difficulty_CropYieldFactor_Label>Врожайність</Difficulty_CropYieldFactor_Label>
+  <Difficulty_CropYieldFactor_Label>Vrožajnist'</Difficulty_CropYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
-  <Difficulty_CropYieldFactor_Info>Відрегулюйте кількість матеріалів, вироблених під час збирання рослин і зернових культур. Це включає збирання рослин і зрізання дерев.</Difficulty_CropYieldFactor_Info>
+  <Difficulty_CropYieldFactor_Info>Vidreguljujte kil'kist' materialiv, vyroblenyh pid čas zbyrannja roslyn i zernovyh kul'tur. Ce vključaje zbyrannja roslyn i zrizannja derev.</Difficulty_CropYieldFactor_Info>
   <!-- EN: Mining yield -->
-  <Difficulty_MineYieldFactor_Label>Продуктивність видобутку</Difficulty_MineYieldFactor_Label>
+  <Difficulty_MineYieldFactor_Label>Produktyvnist' vydobutku</Difficulty_MineYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when mining. -->
-  <Difficulty_MineYieldFactor_Info>Відрегулюйте кількість матеріалів, отриманих при видобутку корисних копалин.</Difficulty_MineYieldFactor_Info>
+  <Difficulty_MineYieldFactor_Info>Vidreguljujte kil'kist' materialiv, otrymanyh pry vydobutku korysnyh kopalyn.</Difficulty_MineYieldFactor_Info>
   <!-- EN: Butchering yield -->
-  <Difficulty_ButcherYieldFactor_Label>Продуктивність обробки туш</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Label>Produktyvnist' obrobky tuš</Difficulty_ButcherYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
-  <Difficulty_ButcherYieldFactor_Info>Відрегулюйте кількість матеріалів, вироблених під час обробки. Сюди входять м’ясо, шкіра та зібране від подрібнення механоїдів.</Difficulty_ButcherYieldFactor_Info>
+  <Difficulty_ButcherYieldFactor_Info>Vidreguljujte kil'kist' materialiv, vyroblenyh pid čas obrobky. Sjudy vhodjat' m'jaso, škira ta zibrane vid podribnennja mehanojidiv.</Difficulty_ButcherYieldFactor_Info>
   <!-- EN: Research speed -->
-  <Difficulty_ResearchSpeedFactor_Label>Швидкість дослідження</Difficulty_ResearchSpeedFactor_Label>
+  <Difficulty_ResearchSpeedFactor_Label>Švydkist' doslidžennja</Difficulty_ResearchSpeedFactor_Label>
   <!-- EN: Adjust the speed of research. -->
-  <Difficulty_ResearchSpeedFactor_Info>Налаштуйте швидкість досліджень.</Difficulty_ResearchSpeedFactor_Info>
+  <Difficulty_ResearchSpeedFactor_Info>Nalaštujte švydkist' doslidžen'.</Difficulty_ResearchSpeedFactor_Info>
   <!-- EN: Quest rewards -->
-  <Difficulty_QuestRewardValueFactor_Label>Нагороди за завдання</Difficulty_QuestRewardValueFactor_Label>
+  <Difficulty_QuestRewardValueFactor_Label>Nagorody za zavdannja</Difficulty_QuestRewardValueFactor_Label>
   <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_QuestRewardValueFactor_Info>Налаштуйте вартість нагород, що надаються за завдання.\n\nПримітка: Значення винагороди за завдання також автоматично масштабується, щоб компенсувати масштаб загрози. Якщо ви налаштуєте цей параметр, ви додасте додатковий множник.</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Info>Nalaštujte vartist' nagorod, ščo nadajut'sja za zavdannja.\n\nPrymitka: Značennja vynagorody za zavdannja takož avtomatyčno masštabujet'sja, ščob kompensuvaty masštab zagrozy. Jakščo vy nalaštujete cej parametr, vy dodaste dodatkovyj množnyk.</Difficulty_QuestRewardValueFactor_Info>
   <!-- EN: Raid loot -->
-  <Difficulty_RaidLootPointsFactor_Label>Рейдовий лут</Difficulty_RaidLootPointsFactor_Label>
+  <Difficulty_RaidLootPointsFactor_Label>Rejdovyj lut</Difficulty_RaidLootPointsFactor_Label>
   <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_RaidLootPointsFactor_Info>Відрегулюйте вартість здобичі, яку переносять рейдери.\n\nПримітка: вартість лута рейда також автоматично масштабується, щоб компенсувати масштаб загрози. Якщо ви налаштуєте цей параметр, ви додасте додатковий множник.</Difficulty_RaidLootPointsFactor_Info>
+  <Difficulty_RaidLootPointsFactor_Info>Vidreguljujte vartist' zdobyči, jaku perenosjat' rejdery.\n\nPrymitka: vartist' luta rejda takož avtomatyčno masštabujet'sja, ščob kompensuvaty masštab zagrozy. Jakščo vy nalaštujete cej parametr, vy dodaste dodatkovyj množnyk.</Difficulty_RaidLootPointsFactor_Info>
   <!-- EN: Turret rearm cost -->
-  <Difficulty_MaintenanceCostFactor_Label>Вартість перезаряджання турелі</Difficulty_MaintenanceCostFactor_Label>
+  <Difficulty_MaintenanceCostFactor_Label>Vartist' perezarjadžannja tureli</Difficulty_MaintenanceCostFactor_Label>
   <!-- EN: Adjust the cost of rearming turrets. -->
-  <Difficulty_MaintenanceCostFactor_Info>Відрегулюйте вартість перезаряджання турелей.</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Info>Vidreguljujte vartist' perezarjadžannja turelej.</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
-  <Difficulty_ScariaRotChance_Label>Ймовірність псування від сказу</Difficulty_ScariaRotChance_Label>
+  <Difficulty_ScariaRotChance_Label>Jmovirnist' psuvannja vid skazu</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
-  <Difficulty_ScariaRotChance_Info>Ймовірність того, що труп відразу ж згниє після смерті, якщо істота хвора на сказ.\n\nПримітка: налаштування за замовчуванням призначені для точного балансування збільшення кількості тварин при вищих труднощах, тому всі гравці отримують однакові м’ясні винагороди.</Difficulty_ScariaRotChance_Info>
+  <Difficulty_ScariaRotChance_Info>Jmovirnist' togo, ščo trup vidrazu ž zgnyje pislja smerti, jakščo istota hvora na skaz.\n\nPrymitka: nalaštuvannja za zamovčuvannjam pryznačeni dlja točnogo balansuvannja zbil'šennja kil'kosti tvaryn pry vyščyh trudnoščah, tomu vsi gravci otrymujut' odnakovi m'jasni vynagorody.</Difficulty_ScariaRotChance_Info>
   <!-- EN: Enemy death on downed -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Смерть ворога від побиття</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Smert' voroga vid pobyttja</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
   <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Налаштуйте додатковий шанс того, що ворог негайно загине після збиття. Це впливає на шанси взяти полонених, а отже, на темпи зростання населення колонії.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Nalaštujte dodatkovyj šans togo, ščo vorog negajno zagyne pislja zbyttja. Ce vplyvaje na šansy vzjaty polonenyh, a otže, na tempy zrostannja naselennja koloniji.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
   <!-- EN: General -->
-  <DifficultyGeneralSection>Загальне</DifficultyGeneralSection>
+  <DifficultyGeneralSection>Zagal'ne</DifficultyGeneralSection>
   <!-- EN: Colonist mood -->
-  <Difficulty_ColonistMoodOffset_Label>Настрій колоніста</Difficulty_ColonistMoodOffset_Label>
+  <Difficulty_ColonistMoodOffset_Label>Nastrij kolonista</Difficulty_ColonistMoodOffset_Label>
   <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
-  <Difficulty_ColonistMoodOffset_Info>Постійний нервовий зрив настрою застосовується до кожного колоніста та в’язня. Колоністи мають базовий настрій 50%.</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_ColonistMoodOffset_Info>Postijnyj nervovyj zryv nastroju zastosovujet'sja do kožnogo kolonista ta v'jaznja. Kolonisty majut' bazovyj nastrij 50%.</Difficulty_ColonistMoodOffset_Info>
   <!-- EN: Food poison chance -->
-  <Difficulty_FoodPoisonChanceFactor_Label>Шанс харчового отруєння</Difficulty_FoodPoisonChanceFactor_Label>
+  <Difficulty_FoodPoisonChanceFactor_Label>Šans harčovogo otrujennja</Difficulty_FoodPoisonChanceFactor_Label>
   <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
-  <Difficulty_FoodPoisonChanceFactor_Info>Скоригуйте шанс того, що людина отримає харчове отруєння від вживання потенційно отруйної їжі.</Difficulty_FoodPoisonChanceFactor_Info>
+  <Difficulty_FoodPoisonChanceFactor_Info>Skorygujte šans togo, ščo ljudyna otrymaje harčove otrujennja vid vžyvannja potencijno otrujnoji jiži.</Difficulty_FoodPoisonChanceFactor_Info>
   <!-- EN: Animal revenge chance -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Label>Шанс звіриної помсти</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>Šans zvirynoji pomsty</Difficulty_ManhunterChanceOnDamageFactor_Label>
   <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Info>Відкоригуйте шанс, що поранення дикої тварини призведе до нападу.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>Vidkorygujte šans, ščo poranennja dykoji tvaryny pryzvede do napadu.</Difficulty_ManhunterChanceOnDamageFactor_Info>
   <!-- EN: Friendly fire -->
-  <Difficulty_FriendlyFireChanceFactor_Label>Вогонь по своїм</Difficulty_FriendlyFireChanceFactor_Label>
+  <Difficulty_FriendlyFireChanceFactor_Label>Vogon' po svojim</Difficulty_FriendlyFireChanceFactor_Label>
   <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
-  <Difficulty_FriendlyFireChanceFactor_Info>Відрегулюйте ймовірність дружнього вогню.\n\nПримітка: Цей параметр впливає лише на прямі постріли, які мали вразити ціль. Це не запобігає пошкодженням від вибухів або від пострілів, які мали не влучити в ціль.</Difficulty_FriendlyFireChanceFactor_Info>
+  <Difficulty_FriendlyFireChanceFactor_Info>Vidreguljujte jmovirnist' družnjogo vognju.\n\nPrymitka: Cej parametr vplyvaje lyše na prjami postrily, jaki maly vrazyty cil'. Ce ne zapobigaje poškodžennjam vid vybuhiv abo vid postriliv, jaki maly ne vlučyty v cil'.</Difficulty_FriendlyFireChanceFactor_Info>
   <!-- EN: Colonist instant kills -->
-  <Difficulty_AllowInstantKillChance_Label>Миттєве вбивство колоніста</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Label>Myttjeve vbyvstvo kolonista</Difficulty_AllowInstantKillChance_Label>
   <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
-  <Difficulty_AllowInstantKillChance_Info>Налаштуйте ймовірність того, що колоніст може миттєво загинути внаслідок нападу. Шкода скоригована так, що замість цього вона завдає колоністам шкоду.\n\nЦе лише запобігає деяким видам миттєвих смертей — колоністи усе одно можуть вмерти та стікати кров’ю, загинути від вогню, вибухів, хвороб тощо.</Difficulty_AllowInstantKillChance_Info>
+  <Difficulty_AllowInstantKillChance_Info>Nalaštujte jmovirnist' togo, ščo kolonist može myttjevo zagynuty vnaslidok napadu. Škoda skorygovana tak, ščo zamist' cjogo vona zavdaje kolonistam škodu.\n\nCe lyše zapobigaje dejakym vydam myttjevyh smertej — kolonisty use odno možut' vmerty ta stikaty krov'ju, zagynuty vid vognju, vybuhiv, hvorob toščo.</Difficulty_AllowInstantKillChance_Info>
   <!-- EN: Infection chance -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Ймовірність зараження</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Jmovirnist' zaražennja</Difficulty_PlayerPawnInfectionChanceFactor_Label>
   <!-- EN: Adjust the chance that a wound will become infected. -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Відрегулюйте ймовірність зараження рани.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Vidreguljujte jmovirnist' zaražennja rany.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
   <!-- EN: Disease frequency -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Частота захворювання</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Častota zahvorjuvannja</Difficulty_DiseaseIntervalFactor_Inverted_Label>
   <!-- EN: Adjust the frequency of random disease events. -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Налаштування частоти випадкових захворювань.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Nalaštuvannja častoty vypadkovyh zahvorjuvan'.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
   <!-- EN: Insect spawning rate -->
-  <Difficulty_EnemyReproductionRateFactor_Label>Плодовитість комах</Difficulty_EnemyReproductionRateFactor_Label>
+  <Difficulty_EnemyReproductionRateFactor_Label>Plodovytist' komah</Difficulty_EnemyReproductionRateFactor_Label>
   <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
-  <Difficulty_EnemyReproductionRateFactor_Info>Налаштуйте швидкість, з якою наявні вулики комах породжують нових комах. Менші значення означають більше часу між появами.\n\nЦе не впливає на можливість зараження – лише на швидкість, з якою активні вулики виробляють комах.</Difficulty_EnemyReproductionRateFactor_Info>
+  <Difficulty_EnemyReproductionRateFactor_Info>Nalaštujte švydkist', z jakoju najavni vulyky komah porodžujut' novyh komah. Menši značennja označajut' bil'še času miž pojavamy.\n\nCe ne vplyvaje na možlyvist' zaražennja – lyše na švydkist', z jakoju aktyvni vulyky vyrobljajut' komah.</Difficulty_EnemyReproductionRateFactor_Info>
   <!-- EN: Deep drilling infestations -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Label>Завали через глибоке буріння</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>Zavaly čerez glyboke burinnja</Difficulty_DeepDrillInfestationChanceFactor_Label>
   <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Info>Відрегулюйте ймовірність того, що глибоке буріння спричинить завал.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>Vidreguljujte jmovirnist' togo, ščo glyboke burinnja spryčynyt' zaval.</Difficulty_DeepDrillInfestationChanceFactor_Info>
   <!-- EN: Map generation ancient threats -->
-  <Difficulty_PeacefulTemples_Inverted_Label>Генерація карти давніх загроз</Difficulty_PeacefulTemples_Inverted_Label>
+  <Difficulty_PeacefulTemples_Inverted_Label>Generacija karty davnih zagroz</Difficulty_PeacefulTemples_Inverted_Label>
   <!-- EN: Ancient structures may contain dangerous threats. -->
-  <Difficulty_PeacefulTemples_Inverted_Info>Стародавні споруди можуть містити небезпечні загрози.</Difficulty_PeacefulTemples_Inverted_Info>
+  <Difficulty_PeacefulTemples_Inverted_Info>Starodavni sporudy možut' mistyty nebezpečni zagrozy.</Difficulty_PeacefulTemples_Inverted_Info>
   <!-- EN: Map generation natural hives -->
-  <Difficulty_AllowCaveHives_Label>Генерування карти природних вуликів</Difficulty_AllowCaveHives_Label>
+  <Difficulty_AllowCaveHives_Label>Generuvannja karty pryrodnyh vulykiv</Difficulty_AllowCaveHives_Label>
   <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
-  <Difficulty_AllowCaveHives_Info>Сплячі вулики комах можуть з'являтись у природних печерах.\n\nЦе налаштування стосується лише створення карт і не впливає на активних комах, які роблять тунелі під час гри.</Difficulty_AllowCaveHives_Info>
+  <Difficulty_AllowCaveHives_Info>Spljači vulyky komah možut' z'javljatys' u pryrodnyh pečerah.\n\nCe nalaštuvannja stosujet'sja lyše stvorennja kart i ne vplyvaje na aktyvnyh komah, jaki robljat' tuneli pid čas gry.</Difficulty_AllowCaveHives_Info>
   <!-- EN: Add unwavering prisoners -->
-  <Difficulty_UnwaveringPrisoners_Label>Додати непохитних в'язнів</Difficulty_UnwaveringPrisoners_Label>
+  <Difficulty_UnwaveringPrisoners_Label>Dodaty nepohytnyh v'jazniv</Difficulty_UnwaveringPrisoners_Label>
   <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
-  <Difficulty_UnwaveringPrisoners_Info>Цей параметр дозволяє додати до гри додаткових полонених, яких не можна вербувати через непохитні вірність.\n\nНепохитні полонені додаються до звичайних полонених, тож вимкнення цього параметру не збільшить кількість полонених яких можна вербувати, він просто прибере непохитних.\n\nНепохитних полонених можна так само відпустити для підняття дипломатії, продати, взяти в рабство, розібрати на органи та інше. Взагалом, цей параметр пропонує більше різномаїття, робить гру більш легкою та насиченою.</Difficulty_UnwaveringPrisoners_Info>
+  <Difficulty_UnwaveringPrisoners_Info>Cej parametr dozvoljaje dodaty do gry dodatkovyh polonenyh, jakyh ne možna verbuvaty čerez nepohytni virnist'.\n\nNepohytni poloneni dodajut'sja do zvyčajnyh polonenyh, tož vymknennja cjogo parametru ne zbil'šyt' kil'kist' polonenyh jakyh možna verbuvaty, vin prosto prybere nepohytnyh.\n\nNepohytnyh polonenyh možna tak samo vidpustyty dlja pidnjattja dyplomatiji, prodaty, vzjaty v rabstvo, rozibraty na organy ta inše. Vzagalom, cej parametr proponuje bil'še riznomajittja, robyt' gru bil'š legkoju ta nasyčenoju.</Difficulty_UnwaveringPrisoners_Info>
 
   <!-- EN: Player tools -->
-  <DifficultyPlayerToolsSection>Інструменти гравця</DifficultyPlayerToolsSection>
+  <DifficultyPlayerToolsSection>Instrumenty gravcja</DifficultyPlayerToolsSection>
   <!-- EN: Player can build traps -->
-  <Difficulty_AllowTraps_Label>Гравець може створювати пастки</Difficulty_AllowTraps_Label>
+  <Difficulty_AllowTraps_Label>Gravec' može stvorjuvaty pastky</Difficulty_AllowTraps_Label>
   <!-- EN: Player can build traps like spike traps and IED traps. -->
-  <Difficulty_AllowTraps_Info>Гравець може будувати пастки, такі як пастки для шипів та пастки IED.</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTraps_Info>Gravec' može buduvaty pastky, taki jak pastky dlja šypiv ta pastky IED.</Difficulty_AllowTraps_Info>
   <!-- EN: Player can build turrets -->
-  <Difficulty_AllowTurrets_Label>Гравець може створювати турелі</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Label>Gravec' može stvorjuvaty tureli</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>Гравець може будувати статичні турелі, а саме: міні-турелі, автоматичні гарматні турелі і турелі з урановими кулями\n\nВи все ще можете використовувати захоплені турелі, навіть якщо це вимкнено.</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>Gravec' može buduvaty statyčni tureli, a same: mini-tureli, avtomatyčni garmatni tureli i tureli z uranovymy kuljamy\n\nVy vse šče možete vykorystovuvaty zahopleni tureli, navit' jakščo ce vymkneno.</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
-  <Difficulty_AllowMortars_Label>Гравець може будувати мортири</Difficulty_AllowMortars_Label>
+  <Difficulty_AllowMortars_Label>Gravec' može buduvaty mortyry</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
-  <Difficulty_AllowMortars_Info>Гравець може будувати міномети.\n\nВи все одно зможете використати захопленні міномети, навіть якщо вони вимкнені.</Difficulty_AllowMortars_Info>
+  <Difficulty_AllowMortars_Info>Gravec' može buduvaty minomety.\n\nVy vse odno zmožete vykorystaty zahoplenni minomety, navit' jakščo vony vymkneni.</Difficulty_AllowMortars_Info>
   <!-- EN: Classic mortars -->
-  <Difficulty_ClassicMortars_Label>Класичні міномети</Difficulty_ClassicMortars_Label>
+  <Difficulty_ClassicMortars_Label>Klasyčni minomety</Difficulty_ClassicMortars_Label>
   <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
-  <Difficulty_ClassicMortars_Info>Мінометам не потрібні посилені стволи для виготовлення або перезарядження, і вони збалансовані для такої простоти доступу.</Difficulty_ClassicMortars_Info>
+  <Difficulty_ClassicMortars_Info>Minometam ne potribni posyleni stvoly dlja vygotovlennja abo perezarjadžennja, i vony zbalansovani dlja takoji prostoty dostupu.</Difficulty_ClassicMortars_Info>
   
   <!-- EN: Adaptation -->
-  <DifficultyAdaptationSection>Адаптація</DifficultyAdaptationSection>
+  <DifficultyAdaptationSection>Adaptacija</DifficultyAdaptationSection>
   <!-- EN: Adaptation growth rate -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Темп зростання адаптації</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Temp zrostannja adaptaciji</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Адаптація означає, що оповідач робить гру складнішою, коли у вас все добре. Оцінка адаптації зростає з часом і знижується, коли ви отримуєте пошкодження.\n\nЦей параметр регулює швидкість зростання оцінки адаптації з часом.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Adaptacija označaje, ščo opovidač robyt' gru skladnišoju, koly u vas vse dobre. Ocinka adaptaciji zrostaje z časom i znyžujet'sja, koly vy otrymujete poškodžennja.\n\nCej parametr reguljuje švydkist' zrostannja ocinky adaptaciji z časom.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
   <!-- EN: Adaptation impact -->
-  <Difficulty_AdaptationEffectFactor_Label>Вплив адаптації</Difficulty_AdaptationEffectFactor_Label>
+  <Difficulty_AdaptationEffectFactor_Label>Vplyv adaptaciji</Difficulty_AdaptationEffectFactor_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
-  <Difficulty_AdaptationEffectFactor_Info>Адаптація означає, що оповідач робить гру складнішою, коли у вас все добре. Оцінка адаптації зростає з часом і знижується, коли ви отримуєте пошкодження.\n\nЦей параметр регулює, наскільки оцінка адаптації впливає на складність.</Difficulty_AdaptationEffectFactor_Info>
+  <Difficulty_AdaptationEffectFactor_Info>Adaptacija označaje, ščo opovidač robyt' gru skladnišoju, koly u vas vse dobre. Ocinka adaptaciji zrostaje z časom i znyžujet'sja, koly vy otrymujete poškodžennja.\n\nCej parametr reguljuje, naskil'ky ocinka adaptaciji vplyvaje na skladnist'.</Difficulty_AdaptationEffectFactor_Info>
   <!-- EN: Wealth-independent progress mode -->
-  <Difficulty_FixedWealthMode_Label>Незалежний від багатства режим прогресу</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Label>Nezaležnyj vid bagatstva režym progresu</Difficulty_FixedWealthMode_Label>
   <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info>Грайте в режимі прогресу, незалежного від багатства.\n\nУ звичайному режимі оповідач масштабує загрози відповідно до кількості колоністів, багатства гравців та багатьох інших факторів. Режим, незалежний від багатства, усуває фактор багатства та замінює його фіксованою кривою прогресу на основі часу. Час відраховується від заснування колонії.\n\nЦе рекомендовано лише для тих, хто шукає суворих іспитів. У режимі незалежності від багатства може бути майже неможливо відновити серйозні втрати, якщо ви не знайдете нове поселення. Також можна занадто випередити криву і вважати гру занадто легкою.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Info>Grajte v režymi progresu, nezaležnogo vid bagatstva.\n\nU zvyčajnomu režymi opovidač masštabuje zagrozy vidpovidno do kil'kosti kolonistiv, bagatstva gravciv ta bagatjoh inšyh faktoriv. Režym, nezaležnyj vid bagatstva, usuvaje faktor bagatstva ta zaminjuje jogo fiksovanoju kryvoju progresu na osnovi času. Čas vidrahovujet'sja vid zasnuvannja koloniji.\n\nCe rekomendovano lyše dlja tyh, hto šukaje suvoryh ispytiv. U režymi nezaležnosti vid bagatstva može buty majže nemožlyvo vidnovyty ser'jozni vtraty, jakščo vy ne znajdete nove poselennja. Takož možna zanadto vyperedyty kryvu i vvažaty gru zanadto legkoju.</Difficulty_FixedWealthMode_Info>
   <!-- EN: Years until maximum threat -->
-  <Difficulty_FixedWealthTimeFactor_Label>Роки до максимальної загрози</Difficulty_FixedWealthTimeFactor_Label>
+  <Difficulty_FixedWealthTimeFactor_Label>Roky do maksymal'noji zagrozy</Difficulty_FixedWealthTimeFactor_Label>
   <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
-  <Difficulty_FixedWealthTimeFactor_Info>Кількість ігрових років, доки режим незалежності від багатства досягне максимального рівня загрози.\n\nЗауважте, що оповідач все одно буде масштабувати загрози відповідно до кількості колоністів та низки інших факторів.</Difficulty_FixedWealthTimeFactor_Info>
+  <Difficulty_FixedWealthTimeFactor_Info>Kil'kist' igrovyh rokiv, doky režym nezaležnosti vid bagatstva dosjagne maksymal'nogo rivnja zagrozy.\n\nZauvažte, ščo opovidač vse odno bude masštabuvaty zagrozy vidpovidno do kil'kosti kolonistiv ta nyzky inšyh faktoriv.</Difficulty_FixedWealthTimeFactor_Info>
 
   <!-- EN: Ideology -->
-  <DifficultyIdeologySection>Ідеологія</DifficultyIdeologySection>
+  <DifficultyIdeologySection>Ideologija</DifficultyIdeologySection>
   <!-- EN: Low pop conversion boost -->
-  <Difficulty_LowPopConversionBoost_Label>Низький приріст конверсії населення</Difficulty_LowPopConversionBoost_Label>
+  <Difficulty_LowPopConversionBoost_Label>Nyz'kyj pryrist konversiji naselennja</Difficulty_LowPopConversionBoost_Label>
   <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
-  <Difficulty_LowPopConversionBoost_Info>При наявності одного колоніста з початковою ідеологією гравця, шанс звернути інших людей до цієї ідеології помножується на це значення. Результативність спроб звернути цього колоніста до іншої ідеології ділиться на це значення.\n\nПри наявності двух колоністів з початковою ідеологієї гравця, вплив цієї величини зменшується вдвічі.\n\nПри наявності трьох, або більше колоністів з початковою релігією гравця це значення не враховується.</Difficulty_LowPopConversionBoost_Info>
+  <Difficulty_LowPopConversionBoost_Info>Pry najavnosti odnogo kolonista z počatkovoju ideologijeju gravcja, šans zvernuty inšyh ljudej do cijeji ideologiji pomnožujet'sja na ce značennja. Rezul'tatyvnist' sprob zvernuty cjogo kolonista do inšoji ideologiji dilyt'sja na ce značennja.\n\nPry najavnosti dvuh kolonistiv z počatkovoju ideologijeji gravcja, vplyv cijeji velyčyny zmenšujet'sja vdviči.\n\nPry najavnosti trjoh, abo bil'še kolonistiv z počatkovoju religijeju gravcja ce značennja ne vrahovujet'sja.</Difficulty_LowPopConversionBoost_Info>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
-  <SelectStartingSite>Оберіть місце старту</SelectStartingSite>
+  <SelectStartingSite>Oberit' misce startu</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite>Випадкове місце</SelectRandomSite>
+  <SelectRandomSite>Vypadkove misce</SelectRandomSite>
   <!-- EN: Select site -->
-  <SelectSite>Оберіть місце</SelectSite>
+  <SelectSite>Oberit' misce</SelectSite>
   <!-- EN: Please select a site. -->
-  <MustSelectStartingSite>Будь ласка, оберіть місце.</MustSelectStartingSite>
+  <MustSelectStartingSite>Bud' laska, oberit' misce.</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>Ви не можете приземлитися на цей біом: {0}</CannotLandBiome>
+  <CannotLandBiome>Vy ne možete pryzemlytysja na cej biom: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>Біом не реалізований</BiomeNotImplemented>
+  <BiomeNotImplemented>Biom ne realizovanyj</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
-  <CannotLandImpassableMountains>Ви не можете приземлитися на непрохідні гори.</CannotLandImpassableMountains>
+  <CannotLandImpassableMountains>Vy ne možete pryzemlytysja na neprohidni gory.</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>У {0} вже є там база.</BaseAlreadyThere>
+  <BaseAlreadyThere>U {0} vže je tam baza.</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
-  <YourBaseAlreadyThere>У вас вже є там база.</YourBaseAlreadyThere>
+  <YourBaseAlreadyThere>U vas vže je tam baza.</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
-  <TileOccupied>Ця клітинка зайнята.</TileOccupied>
+  <TileOccupied>Cja klitynka zajnjata.</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>Поселення не можуть безпосередньо прилягати один до одного.</FactionBaseAdjacent>
+  <FactionBaseAdjacent>Poselennja ne možut' bezposerednjo pryljagaty odyn do odnogo.</FactionBaseAdjacent>
   <!-- EN: Biome -->
-  <Biome>Біом</Biome>
+  <Biome>Biom</Biome>
   <!-- EN: Terrain -->
-  <Terrain>Рельєф</Terrain>
+  <Terrain>Rel'jef</Terrain>
   <!-- EN: Road -->
-  <Road>Дорога</Road>
+  <Road>Doroga</Road>
   <!-- EN: River -->
-  <River>Річка</River>
+  <River>Rička</River>
   <!-- EN: Elevation -->
-  <Elevation>Висота</Elevation>
+  <Elevation>Vysota</Elevation>
   <!-- EN: Fertility -->
-  <Fertility>Родючість</Fertility>
+  <Fertility>Rodjučist'</Fertility>
   <!-- EN: fertility -->
-  <FertilityLower>родючість</FertilityLower>
+  <FertilityLower>rodjučist'</FertilityLower>
   <!-- EN: Average temperature -->
-  <AvgTemp>Середня температура</AvgTemp>
+  <AvgTemp>Serednja temperatura</AvgTemp>
   <!-- EN: Rainfall -->
-  <Rainfall>Кількість опадів</Rainfall>
+  <Rainfall>Kil'kist' opadiv</Rainfall>
   <!-- EN: Special features -->
-  <SpecialFeatures>Особливості</SpecialFeatures>
+  <SpecialFeatures>Osoblyvosti</SpecialFeatures>
   <!-- EN: northern coast -->
-  <HasCoast0>північне узбережжя</HasCoast0>
+  <HasCoast0>pivnične uzberežžja</HasCoast0>
   <!-- EN: eastern coast -->
-  <HasCoast1>східне узбережжя</HasCoast1>
+  <HasCoast1>shidne uzberežžja</HasCoast1>
   <!-- EN: southern coast -->
-  <HasCoast2>південне узбережжя</HasCoast2>
+  <HasCoast2>pivdenne uzberežžja</HasCoast2>
   <!-- EN: western coast -->
-  <HasCoast3>західне узбережжя</HasCoast3>
+  <HasCoast3>zahidne uzberežžja</HasCoast3>
   <!-- EN: caves -->
-  <HasCaves>печери</HasCaves>
+  <HasCaves>pečery</HasCaves>
   <!-- EN: Faction base -->
-  <FactionBase>База фракції</FactionBase>
+  <FactionBase>Baza frakciji</FactionBase>
   <!-- EN: Stone types -->
-  <StoneTypesHere>Типи каменю</StoneTypesHere>
+  <StoneTypesHere>Typy kamenju</StoneTypesHere>
   <!-- EN: Time zone -->
-  <TimeZone>Часовий пояс</TimeZone>
+  <TimeZone>Časovyj pojas</TimeZone>
   <!-- EN: Movement difficulty -->
-  <MovementDifficulty>Важкість пересування</MovementDifficulty>
+  <MovementDifficulty>Važkist' peresuvannja</MovementDifficulty>
   <!-- EN: Animals can graze now -->
-  <AnimalsCanGrazeNow>Тварини можуть пастися зараз</AnimalsCanGrazeNow>
+  <AnimalsCanGrazeNow>Tvaryny možut' pastysja zaraz</AnimalsCanGrazeNow>
   <!-- EN: Average disease frequency -->
-  <AverageDiseaseFrequency>Середня частота захворювань</AverageDiseaseFrequency>
+  <AverageDiseaseFrequency>Serednja častota zahvorjuvan'</AverageDiseaseFrequency>
   <!-- EN: per year -->
-  <PerYear>за рік</PerYear>
+  <PerYear>za rik</PerYear>
   <!-- EN: Forageability -->
-  <Forageability>Наявність харчів</Forageability>
+  <Forageability>Najavnist' harčiv</Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-  <ConfirmRequiredWorkTypeDisabledForEveryone>Ніхто з обраних людей не може виконувати наступні завдання:\n\n{0}\n\nЦе може зробити гру складнішою ніж зазвичай. Ви впевнені, що хочете продовжити?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Nihto z obranyh ljudej ne može vykonuvaty nastupni zavdannja:\n\n{0}\n\nCe može zrobyty gru skladnišoju niž zazvyčaj. Vy vpevneni, ščo hočete prodovžyty?</ConfirmRequiredWorkTypeDisabledForEveryone>
   <!-- EN: temperature -->
-  <TemperatureLower>температура</TemperatureLower>
+  <TemperatureLower>temperatura</TemperatureLower>
   <!-- EN: light -->
-  <LightLower>світло</LightLower>
+  <LightLower>svitlo</LightLower>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
-  <CreateCharacters>Створити персонажів</CreateCharacters>
+  <CreateCharacters>Stvoryty personaživ</CreateCharacters>
   <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
-  <FirstNameDesc>Імʼя персонажа.\n\nВоно буде показуватися лише в деяких меню.</FirstNameDesc>
+  <FirstNameDesc>Im'ja personaža.\n\nVono bude pokazuvatysja lyše v dejakyh menju.</FirstNameDesc>
   <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-  <ShortIdentifierDesc>Короткий ідентифікатор персонажа.\n\nВін буде показуватися завжди. Це може бути імʼя або прізвище, або повністю окреме прізвисько.</ShortIdentifierDesc>
+  <ShortIdentifierDesc>Korotkyj identyfikator personaža.\n\nVin bude pokazuvatysja zavždy. Ce može buty im'ja abo prizvyšče, abo povnistju okreme prizvys'ko.</ShortIdentifierDesc>
   <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
-  <LastNameDesc>Прізвище персонажа.\n\nВоно буде показуватися лише в деяких меню.</LastNameDesc>
+  <LastNameDesc>Prizvyšče personaža.\n\nVono bude pokazuvatysja lyše v dejakyh menju.</LastNameDesc>
   <!-- EN: Randomize -->
-  <Randomize>Рандомізувати</Randomize>
+  <Randomize>Randomizuvaty</Randomize>
   <!-- EN: age {0} -->
-  <AgeIndicator>вік {0}</AgeIndicator>
+  <AgeIndicator>vik {0}</AgeIndicator>
   <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummary>{PAWN_race}, вік {PAWN_ageFull}</PawnSummary>
+  <PawnSummary>{PAWN_race}, vik {PAWN_ageFull}</PawnSummary>
   <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>{PAWN_race} {PAWN_gender}, вік {PAWN_ageFull}</PawnSummaryWithGender>
+  <PawnSummaryWithGender>{PAWN_race} {PAWN_gender}, vik {PAWN_ageFull}</PawnSummaryWithGender>
   <!-- EN: Backstory -->
-  <Backstory>Передісторія</Backstory>
+  <Backstory>Peredistorija</Backstory>
   <!-- EN: Incapable of -->
-  <IncapableOf>Нездатний</IncapableOf>
+  <IncapableOf>Nezdatnyj</IncapableOf>
   <!-- EN: Abilities -->
-  <Abilities>Здібності</Abilities>
+  <Abilities>Zdibnosti</Abilities>
   <!-- EN: Caused by -->
-  <IncapableOfTooltipHediff>Через</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>Čerez</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
-  <IncapableOfTooltipWorkTypes>Неактивні види праці:</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipWorkTypes>Neaktyvni vydy praci:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by backstory -->
-  <IncapableOfTooltipBackstory>Через передісторію</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipBackstory>Čerez peredistoriju</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title -->
-  <IncapableOfTooltipTitle>Через титул</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>Čerez tytul</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait -->
-  <IncapableOfTooltipTrait>Через рису</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>Čerez rysu</IncapableOfTooltipTrait>
   <!-- EN: Caused by quest status -->
-  <IncapableOfTooltipQuest>Через статус завдання</IncapableOfTooltipQuest>
+  <IncapableOfTooltipQuest>Čerez status zavdannja</IncapableOfTooltipQuest>
   <!-- EN: Caused by role -->
-  <IncapableOfTooltipRole>Через роль</IncapableOfTooltipRole>
+  <IncapableOfTooltipRole>Čerez rol'</IncapableOfTooltipRole>
   <!-- EN: Caused by gene -->
-  <IncapableOfTooltipGene>Через ген</IncapableOfTooltipGene>
+  <IncapableOfTooltipGene>Čerez gen</IncapableOfTooltipGene>
   <!-- EN: Traits -->
-  <Traits>Риси</Traits>
+  <Traits>Rysy</Traits>
   <!-- EN: Permanent mood effect -->
-  <PermanentMoodEffect>Постійний вплив настрою</PermanentMoodEffect>
+  <PermanentMoodEffect>Postijnyj vplyv nastroju</PermanentMoodEffect>
   <!-- EN: Skills -->
-  <Skills>Навички</Skills>
+  <Skills>Navyčky</Skills>
   <!-- EN: none -->
-  <NoneLower>нічого</NoneLower>
+  <NoneLower>ničogo</NoneLower>
   <!-- EN: Adulthood -->
-  <Adulthood>Повноліття</Adulthood>
+  <Adulthood>Povnolittja</Adulthood>
   <!-- EN: Childhood -->
-  <Childhood>Дитинство</Childhood>
+  <Childhood>Dytynstvo</Childhood>
   <!-- EN: male -->
-  <Male>чоловік</Male>
+  <Male>čolovik</Male>
   <!-- EN: female -->
-  <Female>жінка</Female>
+  <Female>žinka</Female>
   <!-- EN: male and female -->
-  <MaleAndFemale>чоловік та жінка</MaleAndFemale>
+  <MaleAndFemale>čolovik ta žinka</MaleAndFemale>
   <!-- EN: male -->
-  <MaleAnimal>самець</MaleAnimal>
+  <MaleAnimal>samec'</MaleAnimal>
   <!-- EN: female -->
-  <FemaleAnimal>самка</FemaleAnimal>
+  <FemaleAnimal>samka</FemaleAnimal>
   <!-- EN: Pain -->
-  <Pain>Біль</Pain>
+  <Pain>Bil'</Pain>
   <!-- EN: Health -->
-  <Health>Здоров'я</Health>
+  <Health>Zdorov'ja</Health>
   <!-- EN: Relations -->
-  <Relations>Відносини</Relations>
+  <Relations>Vidnosyny</Relations>
   <!-- EN: Possessions -->
-  <Possessions>Одержимості</Possessions>
+  <Possessions>Oderžymosti</Possessions>
   <!-- EN: Team skills -->
-  <TeamSkills>Командні навички</TeamSkills>
+  <TeamSkills>Komandni navyčky</TeamSkills>
   <!-- EN: Selected -->
-  <StartingPawnsSelected>Обрано</StartingPawnsSelected>
+  <StartingPawnsSelected>Obrano</StartingPawnsSelected>
   <!-- EN: Left behind -->
-  <StartingPawnsLeftBehind>Невикористані</StartingPawnsLeftBehind>
+  <StartingPawnsLeftBehind>Nevykorystani</StartingPawnsLeftBehind>
   <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
-  <GuiltyDesc>Цей колоніст вважається винним. Ви можете вільно вигнати, стратити або заарештувати їх, і іншим це не завадить.\n\nВина минає через</GuiltyDesc>
+  <GuiltyDesc>Cej kolonist vvažajet'sja vynnym. Vy možete vil'no vygnaty, stratyty abo zaareštuvaty jih, i inšym ce ne zavadyt'.\n\nVyna mynaje čerez</GuiltyDesc>
   
   <!-- Misc -->
   <!-- EN: Start -->
-  <Start>Почати</Start>
+  <Start>Počaty</Start>
   <!-- EN: Advanced -->
-  <Advanced>Додатково</Advanced>
+  <Advanced>Dodatkovo</Advanced>
   <!-- EN: Next -->
-  <Next>Далі</Next>
+  <Next>Dali</Next>
   <!-- EN: Back -->
-  <Back>Назад</Back>
+  <Back>Nazad</Back>
   <!-- EN: Change material... -->
-  <ShowMaterials>Змінити матеріал...</ShowMaterials>
+  <ShowMaterials>Zminyty material...</ShowMaterials>
   <!-- EN: Gameplay -->
-  <Gameplay>Геймплей</Gameplay>
+  <Gameplay>Gejmplej</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>Дійсно вийти? Ви втратите усі незбережені дані.</ConfirmQuit>
+  <ConfirmQuit>Dijsno vyjty? Vy vtratyte usi nezbereženi dani.</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
-  <EveryoneNeedsValidName>Кожна особа потребує дійсного імені.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>Kožna osoba potrebuje dijsnogo imeni.</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->
-  <RequiredWorkTypeDisabledForEveryone>Жодна обрана особа не може виконати такі завдання</RequiredWorkTypeDisabledForEveryone>
+  <RequiredWorkTypeDisabledForEveryone>Žodna obrana osoba ne može vykonaty taki zavdannja</RequiredWorkTypeDisabledForEveryone>
   <!-- EN: Quit -->
-  <Quit>Вийти</Quit>
+  <Quit>Vyjty</Quit>
   <!-- EN: Ignore -->
-  <Ignore>Ігнорувати</Ignore>
+  <Ignore>Ignoruvaty</Ignore>
   
   <!-- Progress bar -->
   <!-- EN: Generating world -->
-  <GeneratingWorld>Створення світу</GeneratingWorld>
+  <GeneratingWorld>Stvorennja svitu</GeneratingWorld>
   <!-- EN: Generating planet -->
-  <GeneratingPlanet>Створення планети</GeneratingPlanet>
+  <GeneratingPlanet>Stvorennja planety</GeneratingPlanet>
   <!-- EN: Generating map -->
-  <GeneratingMap>Створення мапи</GeneratingMap>
+  <GeneratingMap>Stvorennja mapy</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
-  <GeneratingMapForNewEncounter>Створення мапи для нової зустрічі</GeneratingMapForNewEncounter>
+  <GeneratingMapForNewEncounter>Stvorennja mapy dlja novoji zustriči</GeneratingMapForNewEncounter>
 
   <!-- EN: Click for more info. -->
-  <ClickForMoreInfo>Натисніть, щоб дізнатися більше.</ClickForMoreInfo>
+  <ClickForMoreInfo>Natysnit', ščob diznatysja bil'še.</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
-  <NoMoreInfoAvailable>Більше інформації недоступно.</NoMoreInfoAvailable>
+  <NoMoreInfoAvailable>Bil'še informaciji nedostupno.</NoMoreInfoAvailable>
 
   <!-- Factions -->
   <!-- EN: Factions -->
-  <Factions>Фракції</Factions>
+  <Factions>Frakciji</Factions>
   <!-- EN: max {0} basic factions allowed -->
-  <TotalFactionsAllowed>максимум {0} основних фракцій дозволено</TotalFactionsAllowed>
+  <TotalFactionsAllowed>maksymum {0} osnovnyh frakcij dozvoleno</TotalFactionsAllowed>
   <!-- EN: max {0} -->
-  <MaxFactionsForType>максимум {0}</MaxFactionsForType>
+  <MaxFactionsForType>maksymum {0}</MaxFactionsForType>
   <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
-  <FactionSelectionDesc>Оберіть кількість фракцій у світі. Ви можете обрати до {0} фракцій усього.</FactionSelectionDesc>
+  <FactionSelectionDesc>Oberit' kil'kist' frakcij u sviti. Vy možete obraty do {0} frakcij usjogo.</FactionSelectionDesc>
   <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
-  <FactionDisabledContentWarning>Вимкнення {0} означає меншу різноманітність завдань та зменшення іншого вмісту.</FactionDisabledContentWarning>
+  <FactionDisabledContentWarning>Vymknennja {0} označaje menšu riznomanitnist' zavdan' ta zmenšennja inšogo vmistu.</FactionDisabledContentWarning>
   <!-- EN: Disabling {0} means less spontaneous threat variety. -->
-  <InsectsDisabledContentWarning>Вимкнення {0} означає меншу кількість різноманітних загроз.</InsectsDisabledContentWarning>
+  <InsectsDisabledContentWarning>Vymknennja {0} označaje menšu kil'kist' riznomanitnyh zagroz.</InsectsDisabledContentWarning>
   <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
-  <MechanoidsDisabledContentWarning>Вимкнення {0} означає менше різноманітності завдань і спонтанних загроз.</MechanoidsDisabledContentWarning>
+  <MechanoidsDisabledContentWarning>Vymknennja {0} označaje menše riznomanitnosti zavdan' i spontannyh zagroz.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
-  <FactionsDisabledWarning>Без інших фракцій. Рейди, торгівля та завдання не відбуватимуться нормально.</FactionsDisabledWarning>
+  <FactionsDisabledWarning>Bez inšyh frakcij. Rejdy, torgivlja ta zavdannja ne vidbuvatymut'sja normal'no.</FactionsDisabledWarning>
 
 </LanguageData>

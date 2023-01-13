@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crashed ship part (incoming) -->
+  <CrashedShipPartIncoming.label>розбита частина корабля (наближається)</CrashedShipPartIncoming.label>
+  
+  <!-- EN: drop pod (incoming) -->
+  <DropPodIncoming.label>десантна капсула (наближується)</DropPodIncoming.label>
+  
+  <!-- EN: drop pod (incoming) -->
+  <DropPodIncomingMechanoid.label>десантна капсула (наближується)</DropPodIncomingMechanoid.label>
+  
+  <!-- EN: drop pod (leaving) -->
+  <DropPodLeaving.label>десантна капсула (відлітає)</DropPodLeaving.label>
+  
+  <!-- EN: meteorite (incoming) -->
+  <MeteoriteIncoming.label>метеорит (наближається)</MeteoriteIncoming.label>
+  
+  <!-- EN: ship chunk (incoming) -->
+  <ShipChunkIncoming.label>фрагмент корабля (наближається)</ShipChunkIncoming.label>
+  
+  <!-- EN: shuttle (crashing) -->
+  <ShuttleCrashing.label>шатл (виконує аварійну посадку)</ShuttleCrashing.label>
+  
+</LanguageData>

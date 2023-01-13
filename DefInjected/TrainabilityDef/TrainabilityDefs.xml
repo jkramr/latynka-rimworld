@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced -->
+  <Advanced.label>просунутий</Advanced.label>
+  
+  <!-- EN: intermediate -->
+  <Intermediate.label>проміжний</Intermediate.label>
+  
+  <!-- EN: none -->
+  <None.label>жодних</None.label>
+  
+  <!-- UNUSED -->
+  <Simple.label>простий</Simple.label>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centipede blaster -->
+  <Mech_CentipedeBlaster.label>багатоніжка з бластером</Mech_CentipedeBlaster.label>
+  
+  <!-- EN: centipede burner -->
+  <Mech_CentipedeBurner.label>багатоніжка підпалювач</Mech_CentipedeBurner.label>
+  
+  <!-- EN: centipede gunner -->
+  <Mech_CentipedeGunner.label>багатоніжка кулеметник</Mech_CentipedeGunner.label>
+  
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>списник</Mech_Lancer.label>
+  
+  <!-- EN: pikeman -->
+  <Mech_Pikeman.label>пікінер</Mech_Pikeman.label>
+  <!-- EN: pikemen -->
+  <Mech_Pikeman.labelPlural>пікінери</Mech_Pikeman.labelPlural>
+  
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>жнець</Mech_Scyther.label>
+  
+</LanguageData>

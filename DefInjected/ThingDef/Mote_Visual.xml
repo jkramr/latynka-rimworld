@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mote -->
+  <CracksShieldBreak.label>Частинка</CracksShieldBreak.label>
+  
+  <!-- EN: Mote -->
+  <FlashShieldBreak.label>Частинка</FlashShieldBreak.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ActivatorCountdownGlow.label>Частинка</Mote_ActivatorCountdownGlow.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ActivatorProximityGlow.label>Частинка</Mote_ActivatorProximityGlow.label>
+  
+  <!-- EN: Mote -->
+  <Mote_Bombardment.label>Частинка</Mote_Bombardment.label>
+  
+  <!-- EN: Mote -->
+  <Mote_CookBit.label>Частинка</Mote_CookBit.label>
+  
+  <!-- EN: Mote -->
+  <Mote_FoodBitMeat.label>Частинка</Mote_FoodBitMeat.label>
+  
+  <!-- EN: Mote -->
+  <Mote_FoodBitVegetarian.label>Частинка</Mote_FoodBitVegetarian.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ForceJob.label>Частинка</Mote_ForceJob.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ForceJobMaintained.label>Частинка</Mote_ForceJobMaintained.label>
+  
+  <!-- EN: Mote -->
+  <Mote_GiantExplosion.label>Частинка</Mote_GiantExplosion.label>
+  
+  <!-- EN: Mote -->
+  <Mote_GiantExplosionInner.label>Частинка</Mote_GiantExplosionInner.label>
+  
+  <!-- EN: Mote -->
+  <Mote_Leaf.label>Частинка</Mote_Leaf.label>
+  
+  <!-- EN: Mote -->
+  <Mote_PowerBeam.label>Частинка</Mote_PowerBeam.label>
+  
+  <!-- EN: Mote -->
+  <Mote_PowerCellBurning.label>Частинка</Mote_PowerCellBurning.label>
+  
+  <!-- EN: Mote -->
+  <Mote_PsychicConditionCauserEffect.label>Частинка</Mote_PsychicConditionCauserEffect.label>
+  
+  <!-- EN: Mote -->
+  <Mote_PsychicEmanatorEffect.label>Частинка</Mote_PsychicEmanatorEffect.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ResurrectAbility.label>Частинка</Mote_ResurrectAbility.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ResurrectFlash.label>Частинка</Mote_ResurrectFlash.label>
+  
+  <!-- EN: Mote -->
+  <Mote_SparkThrownFastBright.label>Частинка</Mote_SparkThrownFastBright.label>
+  
+  <!-- EN: Mote -->
+  <Mote_StoneBit.label>Частинка</Mote_StoneBit.label>
+  
+  <!-- EN: Mote -->
+  <Mote_VomitBit.label>Частинка</Mote_VomitBit.label>
+  
+</LanguageData>

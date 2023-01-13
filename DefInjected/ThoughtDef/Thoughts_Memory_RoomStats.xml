@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decent dining room -->
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.label>пристойна їдальня</AteInImpressiveDiningRoom.stages.decent_dining_room.label>
+  <!-- EN: I ate my meal in a decent dining room. -->
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.description>Я поїв в пристойній їдальні.</AteInImpressiveDiningRoom.stages.decent_dining_room.description>
+  <!-- EN: slightly impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>трохи вражаюча їдальня</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a slightly impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>Я поїв у трохи вражаючій їдальні.</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>
+  <!-- EN: somewhat impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>дещо вражаюча їдальня</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>Я поїв у вражаючій їдальні.</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>
+  <!-- EN: very impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>неймовірна їдальня</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a very impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>Я поїв у неймовірній їдальні.</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>
+  <!-- EN: extremely impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>казкова їдальня</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an extremely impressive dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>Я поїв у казковій їдальні, в ній можна лишитися назавжди.</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>
+  <!-- EN: unbelievably impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>фантастична їдальня</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an unbelievably impressive dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>Я поїв у фантастичній їдальні, в ній можна лишитися назавжди.</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>
+  <!-- EN: wondrously impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>дивовижна їдальня</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a wonderful dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>Я поїв у дивовижній їдальні, в ній можна лишитися назавжди.</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>
+  
+  <!-- EN: decent rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>пристойна кімната відпочинку</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>
+  <!-- EN: I had fun in a decent rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>Мені було весело в пристойній кімнаті відпочинку.</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>
+  <!-- EN: slightly impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>трохи вражаюча кімната відпочинку</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>
+  <!-- EN: I had fun in a nice rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>Мені було весело в гарній кімнаті відпочинку.</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>
+  <!-- EN: somewhat impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>дещо вражаюча кімната відпочинку</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>
+  <!-- EN: I had a great time in an impressive rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>Мені було весело у вражаючій кімнаті відпочинку.</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>
+  <!-- EN: very impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>неймовірна кімната відпочинку</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>
+  <!-- EN: I had a great time in a very impressive rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>Я прекрасно провів час у дуже неймовірній кімнаті відпочинку.</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>
+  <!-- EN: extremely impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>казкова кімната відпочинку</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>
+  <!-- EN: I had a great time in an extremely impressive rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>Я прекрасно провів час в казковій кімнаті відпочинку, в ній можна лишитися навічно.</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>
+  <!-- EN: unbelievably impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>фантастична кімната відпочинку</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>
+  <!-- EN: I had a great time in an unbelievably impressive rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>Я прекрасно провів час у фантастичній кімнаті відпочинку, в ній можна лишитися навічно.</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>
+  <!-- EN: wondrously impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>дивовижна кімната відпочинку</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>
+  <!-- EN: I had a great time in a wonderful rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>Я прекрасно провів час в дивовижній кімнаті відпочинку, в ній можна лишитися навічно.</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
+  
+  <!-- EN: awful barracks -->
+  <SleptInBarracks.stages.awful_barracks.label>жахливий барак</SleptInBarracks.stages.awful_barracks.label>
+  <!-- EN: I had to sleep in an awful barracks. Not only was it a horrible room, but I also had to share it! -->
+  <SleptInBarracks.stages.awful_barracks.description>Мені довелося спати в жахливому бараці. Мало того, що це була жахлива кімната, я ще й мусив її ділити!</SleptInBarracks.stages.awful_barracks.description>
+  <!-- EN: dull barracks -->
+  <SleptInBarracks.stages.dull_barracks.label>похмурий барак</SleptInBarracks.stages.dull_barracks.label>
+  <!-- EN: I had to sleep in a dull barracks. Not only that, but I also had to share it with other people. -->
+  <SleptInBarracks.stages.dull_barracks.description>Спати довелося у похмурому бараці. Мало того, мені довелося поділитися цим з іншими людьми.</SleptInBarracks.stages.dull_barracks.description>
+  <!-- EN: mediocre barracks -->
+  <SleptInBarracks.stages.mediocre_barracks.label>посередній барак</SleptInBarracks.stages.mediocre_barracks.label>
+  <!-- EN: I had to sleep in a mediocre barracks with other people around. I really don't like this. -->
+  <SleptInBarracks.stages.mediocre_barracks.description>Я спав у посередньому бараці з іншими людьми. Мені це не подобається.</SleptInBarracks.stages.mediocre_barracks.description>
+  <!-- EN: decent barracks -->
+  <SleptInBarracks.stages.decent_barracks.label>пристойний барак</SleptInBarracks.stages.decent_barracks.label>
+  <!-- EN: I slept in a decent barracks, but I really dislike sharing a sleeping space. -->
+  <SleptInBarracks.stages.decent_barracks.description>Я спав у пристойному бараці, але мені дуже не подобається ділити його з кимось.</SleptInBarracks.stages.decent_barracks.description>
+  <!-- EN: slightly impressive barracks -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.label>трохи вражаючий барак</SleptInBarracks.stages.slightly_impressive_barracks.label>
+  <!-- EN: I got to sleep in a pretty nice barracks. But I really don't like sharing a room with others. -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.description>Мені вдалося спати в гарному затишному бараку. Але я дуже не люблю ділити кімнату з іншими.</SleptInBarracks.stages.slightly_impressive_barracks.description>
+  <!-- EN: impressive barracks -->
+  <SleptInBarracks.stages.impressive_barracks.label>вражаючий барак</SleptInBarracks.stages.impressive_barracks.label>
+  <!-- EN: I got to sleep in an impressive barracks. It sucks that I had to share it, though. -->
+  <SleptInBarracks.stages.impressive_barracks.description>Мені вдалося поспати у вражаючому бараці. Правда, ділити його з кимось - то дурне.</SleptInBarracks.stages.impressive_barracks.description>
+  <!-- EN: very impressive barracks -->
+  <SleptInBarracks.stages.very_impressive_barracks.label>неймовірний барак</SleptInBarracks.stages.very_impressive_barracks.label>
+  <!-- EN: I slept in a very impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.very_impressive_barracks.description>Я спав неймовірному бараку, я навіть не проти ділити його з кимось.</SleptInBarracks.stages.very_impressive_barracks.description>
+  <!-- EN: extremely impressive barracks -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.label>казковий барак</SleptInBarracks.stages.extremely_impressive_barracks.label>
+  <!-- EN: I slept in an extremely impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.description>Я поспав у казковому бараку, я навіть не проти ділити його з кимось.</SleptInBarracks.stages.extremely_impressive_barracks.description>
+  <!-- EN: unbelievably impressive barracks -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.label>неймовірно вражаючий барак</SleptInBarracks.stages.unbelievably_impressive_barracks.label>
+  <!-- EN: The barracks I slept in was so impressive that I don't even mind sharing it. -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.description>Барак, в якій я ночував, настільки вразила, що я навіть не проти поділитися ним.</SleptInBarracks.stages.unbelievably_impressive_barracks.description>
+  <!-- EN: wondrously impressive barracks -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.label>дивовижно вражаючий барак</SleptInBarracks.stages.wondrously_impressive_barracks.label>
+  <!-- EN: I slept in a barracks that was simply wondrous. Even sharing such a space makes me happy. -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.description>Я спав у бараці, це було просто чудо. Навіть поділ такого простору робить мене щасливим.</SleptInBarracks.stages.wondrously_impressive_barracks.description>
+  
+  <!-- EN: awful bedroom -->
+  <SleptInBedroom.stages.awful_bedroom.label>жахлива спальня</SleptInBedroom.stages.awful_bedroom.label>
+  <!-- EN: I had to sleep in an awful room. -->
+  <SleptInBedroom.stages.awful_bedroom.description>Мені довелось спати в жахливій кімнаті.</SleptInBedroom.stages.awful_bedroom.description>
+  <!-- EN: decent bedroom -->
+  <SleptInBedroom.stages.decent_bedroom.label>пристойна спальня</SleptInBedroom.stages.decent_bedroom.label>
+  <!-- EN: I got to sleep in a pretty decent bedroom. -->
+  <SleptInBedroom.stages.decent_bedroom.description>Я зміг поспати у пристойній спальні.</SleptInBedroom.stages.decent_bedroom.description>
+  <!-- EN: slightly impressive bedroom -->
+  <SleptInBedroom.stages.slightly_impressive_bedroom.label>трохи вражаюча спальня</SleptInBedroom.stages.slightly_impressive_bedroom.label>
+  <!-- EN: I got to sleep in a slightly impressive bedroom. I like it. -->
+  <SleptInBedroom.stages.slightly_impressive_bedroom.description>Я зміг поспати у трохи вражаючій спальні. Мені подобається.</SleptInBedroom.stages.slightly_impressive_bedroom.description>
+  <!-- EN: impressive bedroom -->
+  <SleptInBedroom.stages.impressive_bedroom.label>вражаюча спальня</SleptInBedroom.stages.impressive_bedroom.label>
+  <!-- EN: I slept in an impressive bedroom. It was great. -->
+  <SleptInBedroom.stages.impressive_bedroom.description>Я поспав у вражаючій спальні. Це було чудово.</SleptInBedroom.stages.impressive_bedroom.description>
+  <!-- EN: very impressive bedroom -->
+  <SleptInBedroom.stages.very_impressive_bedroom.label>неймовірна спальня</SleptInBedroom.stages.very_impressive_bedroom.label>
+  <!-- EN: I slept in a very impressive bedroom. I love it. -->
+  <SleptInBedroom.stages.very_impressive_bedroom.description>Я спав у неймовірній спальні. Я її обожнюю.</SleptInBedroom.stages.very_impressive_bedroom.description>
+  <!-- EN: extremely impressive bedroom -->
+  <SleptInBedroom.stages.extremely_impressive_bedroom.label>казкова спальня</SleptInBedroom.stages.extremely_impressive_bedroom.label>
+  <!-- EN: I slept in an extremely impressive bedroom. It was marvelous. -->
+  <SleptInBedroom.stages.extremely_impressive_bedroom.description>Я спав у казковій спальні. Це було просто чудесно.</SleptInBedroom.stages.extremely_impressive_bedroom.description>
+  <!-- EN: unbelievably impressive bedroom -->
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.label>фантастична спальня</SleptInBedroom.stages.unbelievably_impressive_bedroom.label>
+  <!-- EN: I slept in an unbelievably impressive bedroom. It was truly astounding. -->
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.description>Я спав у фантастичній спальні. Вона була справді неймовірна.</SleptInBedroom.stages.unbelievably_impressive_bedroom.description>
+  <!-- EN: wondrously impressive bedroom -->
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.label>дивовижна спальня</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
+  <!-- EN: I slept in a heavenly bedroom. It was wondrous. -->
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.description>Я спав у райській спальні. Вона була дивовижна.</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
+  
+</LanguageData>

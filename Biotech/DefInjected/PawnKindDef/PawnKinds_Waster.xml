@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: waster grenadier -->
+  <Grenadier_Tox.label>гренадер сміттяр</Grenadier_Tox.label>
+  
+  <!-- EN: elite waster -->
+  <Mercenary_EliteTox.label>елітний сміттяр</Mercenary_EliteTox.label>
+  <!-- EN: elite mercenaries -->
+  <Mercenary_EliteTox.labelPlural>елітні найманці</Mercenary_EliteTox.labelPlural>
+  
+  <!-- EN: waster gunner -->
+  <Mercenary_GunnerTox.label>сміттяр стрілець</Mercenary_GunnerTox.label>
+  
+  <!-- EN: heavy waster -->
+  <Mercenary_HeavyTox.label>танк сміттяр</Mercenary_HeavyTox.label>
+  
+  <!-- EN: waster slasher -->
+  <Mercenary_SlasherTox.label>сміттяр слешер</Mercenary_SlasherTox.label>
+  
+  <!-- EN: waster boss -->
+  <PirateBossTox.label>головний сміттяр</PirateBossTox.label>
+  <!-- EN: waster bosses -->
+  <PirateBossTox.labelPlural>головні сміттярі</PirateBossTox.labelPlural>
+  
+</LanguageData>

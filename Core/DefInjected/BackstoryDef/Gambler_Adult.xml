@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] always had an appetite for risk. Military life satisfied that need for a while, but eventually it wasn't enough.\n\nSeeking greater gambles, [PAWN_nameDef] took an offer from a mysterious machine persona and traveled to an unknown rimworld with a mysterious implant in [PAWN_possessive] head. -->
+  <ExMilitary9.baseDesc>[PAWN_nameDef] zavždy ma{INITIATOR_gender ? v : la} bažannja ryzykuvaty. Vijs'kove žyttja zadovol'nylo cju potrebu na dejakyj čas, ale zreštoju cjogo vyjavylosja nedostatnjo.\n\nŠukajučy bil'šyh ryzykiv, [PAWN_nameDef] pryjnja{INITIATOR_gender ? v : la} propozyciju vid tajemnyčoji persony-mašyny ta vyrušy{INITIATOR_gender ? v : la} do nevidomogo zovnišnjogo svitu z tajemnyčym implantatom u golovi.</ExMilitary9.baseDesc>
+  <!-- EN: ex-military -->
+  <ExMilitary9.title>eks-vijs'kovyj</ExMilitary9.title>
+  <!-- EN: ex-military -->
+  <ExMilitary9.titleShort>eks-vijs'kovyj</ExMilitary9.titleShort>
+  
+  <!-- EN: A life of insurance dealing consumed [PAWN_nameDef]'s hopes and dreams. When a mysterious machine persona offered the gambler implant, it seemed like a way to add color to a gray existence.\n\n[PAWN_nameDef] did not, however, plan on being captured by pirates and sent across the galaxy to a distant rimworld. -->
+  <InsuranceBroker9.baseDesc>Žyttja, pov'jazane zi strahuvannjam, poglynulo nadiji ta mriji [PAWN_nameDef]. Koly tajemnyča mašyna-personaž zaproponuvala gravcevi implant, i ce zdavalosja sposobom dodaty koljoru siromu isnuvannju.\n\nOdnak [PAWN_nameDef] ne planuva{INITIATOR_gender ? v : la}, ščo jogo zahopljat' piraty ta vidpravljat' čerez galaktyku v kraj galaktyky.</InsuranceBroker9.baseDesc>
+  <!-- EN: insurance broker -->
+  <InsuranceBroker9.title>strahovyj agent</InsuranceBroker9.title>
+  <!-- EN: broker -->
+  <InsuranceBroker9.titleShort>strahuval'nyk</InsuranceBroker9.titleShort>
+  
+  <!-- EN: When [PAWN_nameDef] was offered [PAWN_possessive] yearly salary in order to test a new implant, [PAWN_pronoun] jumped at the chance. Ever since then, [PAWN_nameDef] has been looking for a way to get it removed. -->
+  <LazyWorker78.baseDesc>Koly [PAWN_nameDef] zaproponuvaly [PAWN_possessive] ričnu zarplatu dlja testuvannja novogo implantatu, [PAWN_pronoun] skorysta{INITIATOR_gender ? vsja : las'} nagodoju. Vidtodi [PAWN_nameDef] šuka{INITIATOR_gender ? v : la} sposib jogo vydalyty.</LazyWorker78.baseDesc>
+  <!-- EN: lazy worker -->
+  <LazyWorker78.title>ledačyj pracivnyk</LazyWorker78.title>
+  <!-- EN: lazy worker -->
+  <LazyWorker78.titleShort>ledacjuga</LazyWorker78.titleShort>
+  
+</LanguageData>

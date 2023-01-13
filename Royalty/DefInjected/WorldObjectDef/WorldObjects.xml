@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shuttle -->
+  <TravelingShuttle.label>шаттл</TravelingShuttle.label>
+  <!-- EN: A shuttle in flight. -->
+  <TravelingShuttle.description>Летючий шаттл.</TravelingShuttle.description>
+  
+</LanguageData>

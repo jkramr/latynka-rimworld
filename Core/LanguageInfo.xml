@@ -6,7 +6,15 @@
   <credits>
     <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
-      <creditee>Julia Kram</creditee>
+      <creditee>Evan</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Raschert0</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Julia Kram (pereklad latynkoju)</creditee>
     </li>
   </credits>
 </LanguageInfo>
